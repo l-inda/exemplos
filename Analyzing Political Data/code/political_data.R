@@ -1,6 +1,6 @@
 # wrangle presidential eleciton data
 library(dplyr)
-install.packages("politicaldata")
+#install.packages("politicaldata")
 library(politicaldata)
 
 pres <- politicaldata::pres_results
@@ -106,11 +106,13 @@ gg <- ggplot(pres_hispanic,aes(x=hispanic.pct,y=dem_gain*100)) +
 ggsave(plot = gg,filename =paste0(getwd(), '/data/figures/hispanics_dem_diff_2008_2016.png'), width=6,height=5,units='in')
 
 # import tidycensus and API key
-install.packages("tidycensus")
+#install.packages("tidycensus")
 library(tidycensus)
 library(tidyverse)
 
-census_api_key("3c22b4128c886266b1bddb7578d0a1cc85b070e6",install = TRUE)
+#First time:
+#census_api_key("3c22b4128c886266b1bddb7578d0a1cc85b070e6",install = TRUE)
+census_api_key("3c22b4128c886266b1bddb7578d0a1cc85b070e6")
 readRenviron("~/.Renviron")
 
 invisible(Sys.getenv("CENSUS_API_KEY"))
@@ -215,7 +217,7 @@ gg <- ggplot(pres_college,aes(x=percent,y=dem_gain*100)) +
 
 ggsave(plot = gg,filename = paste0(getwd(),'/data/figures/noncollege_whites_dem_diff_2008_2016.png'), width=6,height=5,units='in')
 
-install.packages("geofacet")
+#install.packages("geofacet")
 library(geofacet)
 pres_history <- politicaldata::pres_results
 
