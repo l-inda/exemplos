@@ -1,92 +1,97 @@
-##### Chapter 3: Classification using Nearest Neighbors --------------------
+##### Capítulo 3: Classificação usando vizinhos mais próximos --------------------
 
-## Example: Classifying Cancer Samples ----
-## Step 2: Exploring and preparing the data ---- 
+## Exemplo: Classificação de amostras de câncer ----
+## Etapa 2: Explorando e preparando os dados ----
 
-# import the CSV file
+# importar o arquivo CSV
 wbcd <- read.csv(paste0(getwd(),"/data/wisc_bc_data.csv"), stringsAsFactors = FALSE)
 
-# examine the structure of the wbcd data frame
+# examinar a estrutura do data frame 'wbcd'
 str(wbcd)
+#'data.frame':	569 obs. of  32 variables:
+#  $ id     : int  87139402 8910251 905520 868871 9012568 906539 925291 87880 862989 89827 ...
+#$ diagnosis: chr  "B" "B" "B" "B" ...
 
-# drop the id feature
+# retirar o campo id (é o primeiro campo do data frame)
 wbcd <- wbcd[-1]
 
-# table of diagnosis
+# tabela de diagnóstico
 table(wbcd$diagnosis)
 
-# recode diagnosis as a factor
+# recodificar o diagnóstico como 'fator'
 wbcd$diagnosis <- factor(wbcd$diagnosis, levels = c("B", "M"),
-                         labels = c("Benign", "Malignant"))
+                         labels = c("Benigno", "Maligno"))
 
-# table or proportions with more informative labels
+# tabela ou proporções com os rótulos mais informativos
 round(prop.table(table(wbcd$diagnosis)) * 100, digits = 1)
 
-# summarize three numeric features
+# sumarizar três campos numéricos
 summary(wbcd[c("radius_mean", "area_mean", "smoothness_mean")])
 
-# create normalization function
+# criar função de normalização
 normalize <- function(x) {
   return ((x - min(x)) / (max(x) - min(x)))
 }
 
-# test normalization function - result should be identical
+# teste da função de normalização - o resultado deve ser idêntico
 normalize(c(1, 2, 3, 4, 5))
+
 normalize(c(10, 20, 30, 40, 50))
 
-# normalize the wbcd data
+# normalizar os dados no data frame wbcd
 wbcd_n <- as.data.frame(lapply(wbcd[2:31], normalize))
 
-# confirm that normalization worked
+# confirmar se a normalização funcionou!
 summary(wbcd_n$area_mean)
 
-# create training and test data
+# criar dados de treinamento de teste
 wbcd_train <- wbcd_n[1:469, ]
 wbcd_test <- wbcd_n[470:569, ]
 
-# create labels for training and test data
+# criar rótulos para os dados de treinamento e de testes 
 
 wbcd_train_labels <- wbcd[1:469, 1]
 wbcd_test_labels <- wbcd[470:569, 1]
 
-## Step 3: Training a model on the data ----
+## Etapa 3: Treinando um modelo sobre os dados ----
 
-# load the "class" library
+# carrega a biblioteca "class"
 library(class)
 
 wbcd_test_pred <- knn(train = wbcd_train, test = wbcd_test,
                       cl = wbcd_train_labels, k = 21)
 
-## Step 4: Evaluating model performance ----
+## Etapa 4: Avaliando o desempenho do modelo ----
 
-# load the "gmodels" library
+# carrega a biblioteca "gmodels"
 library(gmodels)
 
-# Create the cross tabulation of predicted vs. actual
+# Criar a tabulação cruzada do previsto x realizado
+##A tabulação cruzada é uma ferramenta que permite comparar a relação entre duas variáveis
 CrossTable(x = wbcd_test_labels, y = wbcd_test_pred,
            prop.chisq = FALSE)
 
-## Step 5: Improving model performance ----
+## Passo 5: Melhorando o desempenho do modelo ----
 
-# use the scale() function to z-score standardize a data frame
+# use a função scale () para padronizar o z-score do data frame
 wbcd_z <- as.data.frame(scale(wbcd[-1]))
 
-# confirm that the transformation was applied correctly
+# confirmar se a transformação foi aplicada corretamente
 summary(wbcd_z$area_mean)
 
-# create training and test datasets
+# criar dados de treinamentos e de teste 
 wbcd_train <- wbcd_z[1:469, ]
 wbcd_test <- wbcd_z[470:569, ]
 
-# re-classify test cases
+# reclassificar os casos de teste
 wbcd_test_pred <- knn(train = wbcd_train, test = wbcd_test,
                       cl = wbcd_train_labels, k = 21)
 
-# Create the cross tabulation of predicted vs. actual
+# Criar a tabulação cruzada do previsto x realizado
 CrossTable(x = wbcd_test_labels, y = wbcd_test_pred,
            prop.chisq = FALSE)
 
-# try several different values of k
+# experimentar valores diferentes de k
 wbcd_train <- wbcd_n[1:469, ]
 wbcd_test <- wbcd_n[470:569, ]
 
