@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1555251266373.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "568357069",
+    "id" : "15DBF32A",
+    "lastKnownWriteTime" : 1555252565,
+    "last_content_update" : 1555252565666,
+    "path" : "~/Downloads/Data Science Jumpstart/DS4B_101_R_Business_Analysis/01_jumpstart/01_package_installation.R",
+    "project_path" : "01_jumpstart/01_package_installation.R",
+    "properties" : {
+        "cursorPosition" : "29,0",
+        "scrollLine" : "12"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

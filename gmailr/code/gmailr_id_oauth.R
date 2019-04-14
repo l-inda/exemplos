@@ -1,0 +1,7 @@
+install.packages("gmailr")
+library(gmailr)
+
+#gmail_auth('read_only', id="your_client_id_here", secret="your_client_secret_here")
+gmail_auth('read_only', 
+           id="884859915797-6duv0pvg9hnamfa9gta7jm4kf03mmle2.apps.googleusercontent.com", 
+           secret="t8oFuXGCUxOc4LftautrqVOf")

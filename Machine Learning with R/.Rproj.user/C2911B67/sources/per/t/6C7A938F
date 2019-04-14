@@ -5,15 +5,15 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "2219370671",
+    "hash" : "1950019586",
     "id" : "6C7A938F",
-    "lastKnownWriteTime" : 1552161555,
-    "last_content_update" : 1552161555926,
+    "lastKnownWriteTime" : 1553372922,
+    "last_content_update" : 1553372922829,
     "path" : "~/Library/Mobile Documents/com~apple~CloudDocs/GitHub/exemplos/Machine Learning with R/code/MLwR_v2_03_mod.R",
     "project_path" : "code/MLwR_v2_03_mod.R",
     "properties" : {
-        "cursorPosition" : "64,0",
-        "scrollLine" : "54"
+        "cursorPosition" : "108,0",
+        "scrollLine" : "96"
     },
     "relative_order" : 1,
     "source_on_save" : false,
