@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="800px" height="300px" viewBox="0 0 800 300">
+  <!-- Generator: Sketch 49.2 (51160) - http://www.bohemiancoding.com/sketch -->
+  <title>exercise7-1</title>
+  <desc>Created with Sketch.</desc>
+  <defs></defs>
+  <g id="exercise7-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <g id="Group-3" transform="translate(324.000000, 74.000000)">
+      <rect id="Rectangle-2" x="0" y="0" width="48" height="48"></rect>
+      <circle id="Oval-3" stroke="#4844A3" stroke-width="4" cx="24" cy="24" r="10"></circle>
+    </g>
+    <g id="Group-3" transform="translate(376.000000, 178.000000)">
+      <rect id="Rectangle-2" x="0" y="0" width="48" height="48"></rect>
+      <circle id="Oval-3" stroke="#4844A3" stroke-width="4" cx="24" cy="24" r="10"></circle>
+    </g>
+    <g id="Group-3" transform="translate(428.000000, 74.000000)">
+      <rect id="Rectangle-2" x="0" y="0" width="48" height="48"></rect>
+      <circle id="Oval-3" stroke="#4844A3" stroke-width="4" cx="24" cy="24" r="10"></circle>
+    </g>
+    <g id="Group-2" transform="translate(324.000000, 126.000000)">
+      <rect id="Rectangle-2-Copy" x="0" y="0" width="48" height="48"></rect>
+      <g id="Group" transform="translate(12.000000, 12.000000)" fill="#19CA94">
+        <rect id="Rectangle" transform="translate(12.000000, 11.576923) rotate(45.000000) translate(-12.000000, -11.576923) " x="-1.84615385" y="9.57692308" width="27.6923077" height="4"></rect>
+        <rect id="Rectangle-Copy" transform="translate(12.000000, 11.576923) rotate(-45.000000) translate(-12.000000, -11.576923) " x="-1.84615385" y="9.57692308" width="27.6923077" height="4"></rect>
+      </g>
+    </g>
+    <g id="Group-2-Copy" transform="translate(324.000000, 178.000000)">
+      <rect id="Rectangle-2-Copy" x="0" y="0" width="48" height="48"></rect>
+      <g id="Group" transform="translate(12.000000, 12.000000)" fill="#19CA94">
+        <rect id="Rectangle" transform="translate(12.000000, 11.576923) rotate(45.000000) translate(-12.000000, -11.576923) " x="-1.84615385" y="9.57692308" width="27.6923077" height="4"></rect>
+        <rect id="Rectangle-Copy" transform="translate(12.000000, 11.576923) rotate(-45.000000) translate(-12.000000, -11.576923) " x="-1.84615385" y="9.57692308" width="27.6923077" height="4"></rect>
+      </g>
+    </g>
+    <g id="Group-2" transform="translate(376.000000, 74.000000)">
+      <rect id="Rectangle-2-Copy" x="0" y="0" width="48" height="48"></rect>
+      <g id="Group" transform="translate(12.000000, 12.000000)" fill="#19CA94">
+        <rect id="Rectangle" transform="translate(12.000000, 11.576923) rotate(45.000000) translate(-12.000000, -11.576923) " x="-1.84615385" y="9.57692308" width="27.6923077" height="4"></rect>
+        <rect id="Rectangle-Copy" transform="translate(12.000000, 11.576923) rotate(-45.000000) translate(-12.000000, -11.576923) " x="-1.84615385" y="9.57692308" width="27.6923077" height="4"></rect>
+      </g>
+    </g>
+    <rect id="Rectangle-18" stroke-opacity="0.5" stroke="#CDCCE2" stroke-width="4" x="322" y="72" width="156" height="156" rx="8"></rect>
+    <rect id="Rectangle-19" fill="#E4E3EC" x="372" y="70" width="4" height="160"></rect>
+    <rect id="Rectangle-19-Copy" fill="#E4E3EC" x="424" y="70" width="4" height="160"></rect>
+    <rect id="Rectangle-19-Copy-2" fill="#E4E3EC" transform="translate(400.000000, 124.000000) rotate(90.000000) translate(-400.000000, -124.000000) " x="398" y="44" width="4" height="160"></rect>
+    <rect id="Rectangle-19-Copy-3" fill="#E4E3EC" transform="translate(400.000000, 176.000000) rotate(90.000000) translate(-400.000000, -176.000000) " x="398" y="96" width="4" height="160"></rect>
+  </g>
+</svg>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="800px" height="364px" viewBox="0 0 800 364">
+  <!-- Generator: Sketch 49.2 (51160) - http://www.bohemiancoding.com/sketch -->
+  <title>exercise6_1</title>
+  <desc>Created with Sketch.</desc>
+  <defs></defs>
+  <g id="exercise6_1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <g id="Group" transform="translate(102.000000, 134.000000)">
+      <polygon id="Rectangle-3" fill-opacity="0.5" fill="#CDCCE2" points="84 0 100 0 100 160 84 160"></polygon>
+      <polygon id="Rectangle-3-Copy" fill-opacity="0.5" fill="#CDCCE2" points="291 0 307 0 307 160 291 160"></polygon>
+      <polygon id="Rectangle-3-Copy-2" fill-opacity="0.5" fill="#CDCCE2" points="499 0 515 0 515 160 499 160"></polygon>
+      <rect id="Rectangle" fill="#D36BD3" x="0" y="104" width="184" height="40" rx="20"></rect>
+      <rect id="Rectangle-Copy-2" fill="#D36BD3" x="415" y="104" width="184" height="40" rx="20"></rect>
+      <rect id="Rectangle-Copy-3" fill="#5BC4E7" x="32" y="64" width="120" height="40" rx="20"></rect>
+      <rect id="Rectangle-Copy-5" fill="#5BC4E7" x="447" y="64" width="120" height="40" rx="20"></rect>
+      <rect id="Rectangle-4" fill="#29264C" x="0" y="144" width="600" height="16"></rect>
+    </g>
+    <text id="Initial-state" font-family="GTWalsheimBold, GT Walsheim" font-size="20" font-weight="bold" letter-spacing="0.2222222" fill="#29264C">
+      <tspan x="137" y="84">Initial state</tspan>
+    </text>
+    <text id="Goal-state" font-family="GTWalsheimBold, GT Walsheim" font-size="20" font-weight="bold" letter-spacing="0.2222222" fill="#29264C">
+      <tspan x="555" y="84">Goal state</tspan>
+    </text>
+  </g>
+</svg>

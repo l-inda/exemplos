@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="800px" height="338px" viewBox="0 0 800 338">
+  <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+  <title>exercise6_3</title>
+  <desc>Created with Sketch.</desc>
+  <defs></defs>
+  <g id="exercise6_3" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <rect id="Rectangle-11-Copy-53" stroke="#CDCCE2" stroke-width="2" fill="#FFFFFF" x="97" y="33" width="158" height="80" rx="8"></rect>
+    <rect id="Rectangle-11-Copy-56" stroke="#CDCCE2" stroke-width="2" fill="#FFFFFF" x="97" y="191" width="158" height="80" rx="8"></rect>
+    <rect id="Rectangle-11-Copy-54" stroke="#CDCCE2" stroke-width="2" fill="#FFFFFF" x="321" y="33" width="158" height="80" rx="8"></rect>
+    <rect id="Rectangle-11-Copy-57" stroke="#CDCCE2" stroke-width="2" fill="#FFFFFF" x="321" y="191" width="158" height="80" rx="8"></rect>
+    <rect id="Rectangle-11-Copy-55" stroke="#CDCCE2" stroke-width="2" fill="#FFFFFF" x="545" y="33" width="158" height="80" rx="8"></rect>
+    <rect id="Rectangle-11-Copy-58" stroke="#CDCCE2" stroke-width="2" fill="#FFFFFF" x="545" y="191" width="158" height="80" rx="8"></rect>
+    <g id="Group" transform="translate(116.000000, 49.000000)">
+      <rect id="Rectangle-5" fill-opacity="0.5" fill="#CDCCE2" x="14" y="0" width="4" height="42"></rect>
+      <rect id="Rectangle-Copy-18" fill="#D36BD3" x="44" y="34" width="32" height="8" rx="4"></rect>
+      <rect id="Rectangle-Copy-21" fill="#5BC4E7" x="49" y="24" width="22" height="8" rx="4"></rect>
+      <rect id="Rectangle-5-Copy-2" fill="#29264C" x="0" y="44" width="120" height="4"></rect>
+      <rect id="Rectangle-5-Copy" fill-opacity="0.5" fill="#CDCCE2" x="58" y="0" width="4" height="22"></rect>
+      <rect id="Rectangle-5-Copy-3" fill-opacity="0.5" fill="#CDCCE2" x="102" y="0" width="4" height="42"></rect>
+    </g>
+    <text id="A" font-family="GTWalsheimBold, GT Walsheim" font-size="20" font-weight="bold" letter-spacing="0.2222222" fill="#29264C">
+      <tspan x="169.288889" y="142">A</tspan>
+    </text>
+    <text id="D" font-family="GTWalsheimBold, GT Walsheim" font-size="20" font-weight="bold" letter-spacing="0.2222222" fill="#29264C">
+      <tspan x="168.688889" y="300">D</tspan>
+    </text>
+    <text id="B" font-family="GTWalsheimBold, GT Walsheim" font-size="20" font-weight="bold" letter-spacing="0.2222222" fill="#29264C">
+      <tspan x="393.558889" y="142">B</tspan>
+    </text>
+    <text id="E" font-family="GTWalsheimBold, GT Walsheim" font-size="20" font-weight="bold" letter-spacing="0.2222222" fill="#29264C">
+      <tspan x="394.338889" y="300">E</tspan>
+    </text>
+    <text id="C" font-family="GTWalsheimBold, GT Walsheim" font-size="20" font-weight="bold" letter-spacing="0.2222222" fill="#29264C">
+      <tspan x="616.008889" y="142">C</tspan>
+    </text>
+    <text id="F" font-family="GTWalsheimBold, GT Walsheim" font-size="20" font-weight="bold" letter-spacing="0.2222222" fill="#29264C">
+      <tspan x="618.388889" y="300">F</tspan>
+    </text>
+    <g id="Group-Copy" transform="translate(340.000000, 48.000000)">
+      <rect id="Rectangle-5" fill-opacity="0.5" fill="#CDCCE2" x="14" y="0" width="4" height="42"></rect>
+      <rect id="Rectangle-Copy-17" fill="#D36BD3" x="88" y="34" width="32" height="8" rx="4"></rect>
+      <rect id="Rectangle-Copy-20" fill="#5BC4E7" x="93" y="24" width="22" height="8" rx="4"></rect>
+      <rect id="Rectangle-5-Copy-2" fill="#29264C" x="0" y="44" width="120" height="4"></rect>
+      <rect id="Rectangle-5-Copy" fill-opacity="0.5" fill="#CDCCE2" x="58" y="0" width="4" height="42"></rect>
+      <rect id="Rectangle-5-Copy-3" fill-opacity="0.5" fill="#CDCCE2" x="102" y="0" width="4" height="22"></rect>
+    </g>
+    <rect id="Rectangle-5-Copy-19" fill-opacity="0.5" fill="#CDCCE2" x="577" y="52" width="4" height="32"></rect>
+    <rect id="Rectangle-Copy-30" fill="#D36BD3" x="607" y="86" width="32" height="8" rx="4"></rect>
+    <rect id="Rectangle-Copy-32" fill="#5BC4E7" x="568" y="86" width="22" height="8" rx="4"></rect>
+    <rect id="Rectangle-5-Copy-21" fill="#29264C" x="563" y="96" width="120" height="4"></rect>
+    <rect id="Rectangle-5-Copy-22" fill-opacity="0.5" fill="#CDCCE2" x="621" y="52" width="4" height="32"></rect>
+    <rect id="Rectangle-5-Copy-23" fill-opacity="0.5" fill="#CDCCE2" x="665" y="52" width="4" height="42"></rect>
+    <g id="Group" transform="translate(118.000000, 207.000000)">
+      <rect id="Rectangle-5-Copy-9" fill="#29264C" transform="translate(60.000000, 46.000000) scale(-1, 1) translate(-60.000000, -46.000000) " x="0" y="44" width="120" height="4"></rect>
+      <rect id="Rectangle-Copy-25" fill="#D36BD3" x="44" y="34" width="32" height="8" rx="4"></rect>
+      <rect id="Rectangle-5-Copy-7" fill-opacity="0.5" fill="#CDCCE2" x="100" y="0" width="4" height="32"></rect>
+      <rect id="Rectangle-Copy-26" fill="#5BC4E7" x="91" y="34" width="22" height="8" rx="4"></rect>
+      <rect id="Rectangle-5-Copy-10" fill-opacity="0.5" fill="#CDCCE2" x="58" y="0" width="4" height="32"></rect>
+      <rect id="Rectangle-5-Copy-11" fill-opacity="0.5" fill="#CDCCE2" transform="translate(16.000000, 21.000000) scale(-1, 1) translate(-16.000000, -21.000000) " x="14" y="0" width="4" height="42"></rect>
+    </g>
+    <g id="Group" transform="translate(342.000000, 207.000000)">
+      <rect id="Rectangle-5-Copy-12" fill-opacity="0.5" fill="#CDCCE2" x="58" y="0" width="4" height="32"></rect>
+      <rect id="Rectangle-Copy-27" fill="#D36BD3" x="88" y="34" width="32" height="8" rx="4"></rect>
+      <rect id="Rectangle-Copy-28" fill="#5BC4E7" x="49" y="34" width="22" height="8" rx="4"></rect>
+      <rect id="Rectangle-5-Copy-13" fill="#29264C" x="0" y="44" width="120" height="4"></rect>
+      <rect id="Rectangle-5-Copy-14" fill-opacity="0.5" fill="#CDCCE2" x="102" y="0" width="4" height="32"></rect>
+      <rect id="Rectangle-5-Copy-15" fill-opacity="0.5" fill="#CDCCE2" x="14" y="0" width="4" height="42"></rect>
+    </g>
+    <g id="Group" transform="translate(563.000000, 207.000000)">
+      <rect id="Rectangle-5-Copy-16" fill-opacity="0.5" fill="#CDCCE2" x="58" y="0" width="4" height="42"></rect>
+      <rect id="Rectangle-5-Copy-20" fill-opacity="0.5" fill="#CDCCE2" x="14" y="0" width="4" height="32"></rect>
+      <rect id="Rectangle-Copy-29" fill="#D36BD3" x="88" y="34" width="32" height="8" rx="4"></rect>
+      <rect id="Rectangle-Copy-31" fill="#5BC4E7" x="5" y="34" width="22" height="8" rx="4"></rect>
+      <rect id="Rectangle-5-Copy-17" fill="#29264C" x="0" y="44" width="120" height="4"></rect>
+      <rect id="Rectangle-5-Copy-18" fill-opacity="0.5" fill="#CDCCE2" x="102" y="0" width="4" height="32"></rect>
+    </g>
+  </g>
+</svg>

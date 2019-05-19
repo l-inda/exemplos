@@ -1,0 +1,1075 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="800px" height="660px" viewBox="0 0 800 660">
+  <!-- Generator: Sketch 49.2 (51160) - http://www.bohemiancoding.com/sketch -->
+  <title>exercise7-2</title>
+  <desc>Created with Sketch.</desc>
+  <defs></defs>
+  <g id="exercise7-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <text id="Max-Copy-2" font-family="GTWalsheimBold, GT Walsheim" font-size="20" font-weight="bold" letter-spacing="0.222222194" fill="#29264C">
+      <tspan x="0" y="579">Max</tspan>
+    </text>
+    <path d="M16.2,231 L16.2,245 L13.04,245 L13.04,236.32 L10.02,245 L7.62,245 L4.5,236.32 L4.5,245 L1.34,245 L1.34,231 L5.08,231 L8.82,240.74 L12.52,231 L16.2,231 Z M23.8022222,242.64 C25.1822222,242.64 26.1022222,241.52 26.1022222,240.18 C26.1022222,238.86 25.1822222,237.72 23.8022222,237.72 C22.4222222,237.72 21.5022222,238.86 21.5022222,240.18 C21.5022222,241.52 22.4222222,242.64 23.8022222,242.64 Z M26.1022222,235.36 L29.1622222,235.36 L29.1622222,245 L26.1022222,245 L26.1022222,243.64 C25.6422222,244.52 24.4022222,245.24 23.1622222,245.24 C20.3822222,245.24 18.4622222,243.06 18.4622222,240.18 C18.4622222,237.3 20.3822222,235.12 23.1622222,235.12 C24.4022222,235.12 25.6422222,235.86 26.1022222,236.74 L26.1022222,235.36 Z M37.6444444,240.14 L40.9444444,245 L37.4044444,245 L35.8244444,242.2 L34.2444444,245 L30.7044444,245 L34.0244444,240.14 L30.7644444,235.36 L34.3044444,235.36 L35.8244444,238.08 L37.3444444,235.36 L40.8844444,235.36 L37.6444444,240.14 Z" id="Max-Copy" fill="#29264C"></path>
+    <path d="M16.2,62 L16.2,76 L13.04,76 L13.04,67.32 L10.02,76 L7.62,76 L4.5,67.32 L4.5,76 L1.34,76 L1.34,62 L5.08,62 L8.82,71.74 L12.52,62 L16.2,62 Z M18.6222222,63.16 C18.6222222,62.08 19.4822222,61.22 20.5822222,61.22 C21.7022222,61.22 22.5622222,62.08 22.5622222,63.16 C22.5622222,64.22 21.7022222,65.1 20.5822222,65.1 C19.4822222,65.1 18.6222222,64.22 18.6222222,63.16 Z M19.0622222,76 L19.0622222,66.36 L22.1222222,66.36 L22.1222222,76 L19.0622222,76 Z M24.9444444,76 L24.9444444,66.36 L28.0044444,66.36 L28.0044444,67.76 C28.5444444,66.72 29.6644444,66.12 31.1644444,66.12 C32.4044444,66.12 33.3444444,66.54 33.8644444,67.22 C34.4644444,67.96 34.6244444,68.9 34.6244444,70.28 L34.6244444,76 L31.5644444,76 L31.5644444,71.06 C31.5644444,69.68 31.1444444,68.72 29.8644444,68.72 C28.6244444,68.72 28.0044444,69.68 28.0044444,71.16 L28.0044444,76 L24.9444444,76 Z" id="Min" fill="#29264C"></path>
+    <path d="M16.2,401 L16.2,415 L13.04,415 L13.04,406.32 L10.02,415 L7.62,415 L4.5,406.32 L4.5,415 L1.34,415 L1.34,401 L5.08,401 L8.82,410.74 L12.52,401 L16.2,401 Z M18.6222222,402.16 C18.6222222,401.08 19.4822222,400.22 20.5822222,400.22 C21.7022222,400.22 22.5622222,401.08 22.5622222,402.16 C22.5622222,403.22 21.7022222,404.1 20.5822222,404.1 C19.4822222,404.1 18.6222222,403.22 18.6222222,402.16 Z M19.0622222,415 L19.0622222,405.36 L22.1222222,405.36 L22.1222222,415 L19.0622222,415 Z M24.9444444,415 L24.9444444,405.36 L28.0044444,405.36 L28.0044444,406.76 C28.5444444,405.72 29.6644444,405.12 31.1644444,405.12 C32.4044444,405.12 33.3444444,405.54 33.8644444,406.22 C34.4644444,406.96 34.6244444,407.9 34.6244444,409.28 L34.6244444,415 L31.5644444,415 L31.5644444,410.06 C31.5644444,408.68 31.1444444,407.72 29.8644444,407.72 C28.6244444,407.72 28.0044444,408.68 28.0044444,410.16 L28.0044444,415 L24.9444444,415 Z" id="Min-Copy-2" fill="#29264C"></path>
+    <g id="Group-Copy-9" transform="translate(264.000000, 406.000000) rotate(90.000000) translate(-264.000000, -406.000000) translate(250.000000, 366.000000)" fill="#E4E3EC">
+      <rect id="Rectangle-19-Copy-2" x="0" y="0" width="2" height="80"></rect>
+      <rect id="Rectangle-19-Copy-3" x="26" y="0" width="2" height="80"></rect>
+    </g>
+    <g id="O" transform="translate(424.000000, 33.000000)">
+      <g id="Group-3">
+        <rect id="Rectangle-2" x="0" y="0" width="24" height="24"></rect>
+        <circle id="Oval-3" stroke="#4844A3" stroke-width="2" cx="12" cy="12" r="5"></circle>
+      </g>
+    </g>
+    <g id="O" transform="translate(670.000000, 197.000000)">
+      <g id="Group-3">
+        <rect id="Rectangle-2" x="0" y="0" width="24" height="24"></rect>
+        <circle id="Oval-3" stroke="#4844A3" stroke-width="2" cx="12" cy="12" r="5"></circle>
+      </g>
+    </g>
+    <g id="O" transform="translate(422.000000, 197.000000)">
+      <g id="Group-3">
+        <rect id="Rectangle-2" x="0" y="0" width="24" height="24"></rect>
+        <circle id="Oval-3" stroke="#4844A3" stroke-width="2" cx="12" cy="12" r="5"></circle>
+      </g>
+    </g>
+    <g id="O" transform="translate(618.000000, 368.000000)">
+      <g id="Group-3">
+        <rect id="Rectangle-2" x="0" y="0" width="24" height="24"></rect>
+        <circle id="Oval-3" stroke="#4844A3" stroke-width="2" cx="12" cy="12" r="5"></circle>
+      </g>
+    </g>
+    <g id="O" transform="translate(122.000000, 368.000000)">
+      <g id="Group-3">
+        <rect id="Rectangle-2" x="0" y="0" width="24" height="24"></rect>
+        <circle id="Oval-3" stroke="#4844A3" stroke-width="2" cx="12" cy="12" r="5"></circle>
+      </g>
+    </g>
+    <g id="O" transform="translate(122.000000, 541.000000)">
+      <g id="Group-3">
+        <rect id="Rectangle-2" x="0" y="0" width="24" height="24"></rect>
+        <circle id="Oval-3" stroke="#4844A3" stroke-width="2" cx="12" cy="12" r="5"></circle>
+      </g>
+    </g>
+    <g id="O" transform="translate(148.000000, 567.000000)">
+      <g id="Group-3">
+        <rect id="Rectangle-2" x="0" y="0" width="24" height="24"></rect>
+        <circle id="Oval-3" stroke="#4844A3" stroke-width="2" cx="12" cy="12" r="5"></circle>
+      </g>
+    </g>
+    <g id="O" transform="translate(174.000000, 593.000000)">
+      <g id="Group-3">
+        <rect id="Rectangle-2" x="0" y="0" width="24" height="24"></rect>
+        <circle id="Oval-3" stroke="#4844A3" stroke-width="2" cx="12" cy="12" r="5"></circle>
+      </g>
+    </g>
+    <g id="O" transform="translate(474.000000, 368.000000)">
+      <g id="Group-3">
+        <rect id="Rectangle-2" x="0" y="0" width="24" height="24"></rect>
+        <circle id="Oval-3" stroke="#4844A3" stroke-width="2" cx="12" cy="12" r="5"></circle>
+      </g>
+    </g>
+    <g id="O" transform="translate(722.000000, 368.000000)">
+      <g id="Group-3">
+        <rect id="Rectangle-2" x="0" y="0" width="24" height="24"></rect>
+        <circle id="Oval-3" stroke="#4844A3" stroke-width="2" cx="12" cy="12" r="5"></circle>
+      </g>
+    </g>
+    <g id="O" transform="translate(226.000000, 368.000000)">
+      <g id="Group-3">
+        <rect id="Rectangle-2" x="0" y="0" width="24" height="24"></rect>
+        <circle id="Oval-3" stroke="#4844A3" stroke-width="2" cx="12" cy="12" r="5"></circle>
+      </g>
+    </g>
+    <g id="O" transform="translate(226.000000, 541.000000)">
+      <g id="Group-3">
+        <rect id="Rectangle-2" x="0" y="0" width="24" height="24"></rect>
+        <circle id="Oval-3" stroke="#4844A3" stroke-width="2" cx="12" cy="12" r="5"></circle>
+      </g>
+    </g>
+    <g id="O" transform="translate(474.000000, 541.000000)">
+      <g id="Group-3">
+        <rect id="Rectangle-2" x="0" y="0" width="24" height="24"></rect>
+        <circle id="Oval-3" stroke="#4844A3" stroke-width="2" cx="12" cy="12" r="5"></circle>
+      </g>
+    </g>
+    <g id="O" transform="translate(618.000000, 541.000000)">
+      <g id="Group-3">
+        <rect id="Rectangle-2" x="0" y="0" width="24" height="24"></rect>
+        <circle id="Oval-3" stroke="#4844A3" stroke-width="2" cx="12" cy="12" r="5"></circle>
+      </g>
+    </g>
+    <g id="O" transform="translate(370.000000, 541.000000)">
+      <g id="Group-3">
+        <rect id="Rectangle-2" x="0" y="0" width="24" height="24"></rect>
+        <circle id="Oval-3" stroke="#4844A3" stroke-width="2" cx="12" cy="12" r="5"></circle>
+      </g>
+    </g>
+    <g id="O" transform="translate(174.000000, 197.000000)">
+      <g id="Group-3">
+        <rect id="Rectangle-2" x="0" y="0" width="24" height="24"></rect>
+        <circle id="Oval-3" stroke="#4844A3" stroke-width="2" cx="12" cy="12" r="5"></circle>
+      </g>
+    </g>
+    <g id="O" transform="translate(450.000000, 85.000000)">
+      <g id="Group-3">
+        <rect id="Rectangle-2" x="0" y="0" width="24" height="24"></rect>
+        <circle id="Oval-3" stroke="#4844A3" stroke-width="2" cx="12" cy="12" r="5"></circle>
+      </g>
+    </g>
+    <g id="O" transform="translate(696.000000, 249.000000)">
+      <g id="Group-3">
+        <rect id="Rectangle-2" x="0" y="0" width="24" height="24"></rect>
+        <circle id="Oval-3" stroke="#4844A3" stroke-width="2" cx="12" cy="12" r="5"></circle>
+      </g>
+    </g>
+    <g id="O" transform="translate(722.000000, 249.000000)">
+      <g id="Group-3">
+        <rect id="Rectangle-2" x="0" y="0" width="24" height="24"></rect>
+        <circle id="Oval-3" stroke="#4844A3" stroke-width="2" cx="12" cy="12" r="5"></circle>
+      </g>
+    </g>
+    <g id="O" transform="translate(448.000000, 249.000000)">
+      <g id="Group-3">
+        <rect id="Rectangle-2" x="0" y="0" width="24" height="24"></rect>
+        <circle id="Oval-3" stroke="#4844A3" stroke-width="2" cx="12" cy="12" r="5"></circle>
+      </g>
+    </g>
+    <g id="O" transform="translate(644.000000, 420.000000)">
+      <g id="Group-3">
+        <rect id="Rectangle-2" x="0" y="0" width="24" height="24"></rect>
+        <circle id="Oval-3" stroke="#4844A3" stroke-width="2" cx="12" cy="12" r="5"></circle>
+      </g>
+    </g>
+    <g id="O" transform="translate(670.000000, 420.000000)">
+      <g id="Group-3">
+        <rect id="Rectangle-2" x="0" y="0" width="24" height="24"></rect>
+        <circle id="Oval-3" stroke="#4844A3" stroke-width="2" cx="12" cy="12" r="5"></circle>
+      </g>
+    </g>
+    <g id="O" transform="translate(148.000000, 420.000000)">
+      <g id="Group-3">
+        <rect id="Rectangle-2" x="0" y="0" width="24" height="24"></rect>
+        <circle id="Oval-3" stroke="#4844A3" stroke-width="2" cx="12" cy="12" r="5"></circle>
+      </g>
+    </g>
+    <g id="O" transform="translate(148.000000, 394.000000)">
+      <g id="Group-3">
+        <rect id="Rectangle-2" x="0" y="0" width="24" height="24"></rect>
+        <circle id="Oval-3" stroke="#4844A3" stroke-width="2" cx="12" cy="12" r="5"></circle>
+      </g>
+    </g>
+    <g id="O" transform="translate(148.000000, 593.000000)">
+      <g id="Group-3">
+        <rect id="Rectangle-2" x="0" y="0" width="24" height="24"></rect>
+        <circle id="Oval-3" stroke="#4844A3" stroke-width="2" cx="12" cy="12" r="5"></circle>
+      </g>
+    </g>
+    <g id="O" transform="translate(500.000000, 420.000000)">
+      <g id="Group-3">
+        <rect id="Rectangle-2" x="0" y="0" width="24" height="24"></rect>
+        <circle id="Oval-3" stroke="#4844A3" stroke-width="2" cx="12" cy="12" r="5"></circle>
+      </g>
+    </g>
+    <g id="O" transform="translate(748.000000, 420.000000)">
+      <g id="Group-3">
+        <rect id="Rectangle-2" x="0" y="0" width="24" height="24"></rect>
+        <circle id="Oval-3" stroke="#4844A3" stroke-width="2" cx="12" cy="12" r="5"></circle>
+      </g>
+    </g>
+    <g id="O" transform="translate(774.000000, 420.000000)">
+      <g id="Group-3">
+        <rect id="Rectangle-2" x="0" y="0" width="24" height="24"></rect>
+        <circle id="Oval-3" stroke="#4844A3" stroke-width="2" cx="12" cy="12" r="5"></circle>
+      </g>
+    </g>
+    <g id="O" transform="translate(252.000000, 420.000000)">
+      <g id="Group-3">
+        <rect id="Rectangle-2" x="0" y="0" width="24" height="24"></rect>
+        <circle id="Oval-3" stroke="#4844A3" stroke-width="2" cx="12" cy="12" r="5"></circle>
+      </g>
+    </g>
+    <g id="O" transform="translate(252.000000, 394.000000)">
+      <g id="Group-3">
+        <rect id="Rectangle-2" x="0" y="0" width="24" height="24"></rect>
+        <circle id="Oval-3" stroke="#4844A3" stroke-width="2" cx="12" cy="12" r="5"></circle>
+      </g>
+    </g>
+    <g id="O" transform="translate(252.000000, 567.000000)">
+      <g id="Group-3">
+        <rect id="Rectangle-2" x="0" y="0" width="24" height="24"></rect>
+        <circle id="Oval-3" stroke="#4844A3" stroke-width="2" cx="12" cy="12" r="5"></circle>
+      </g>
+    </g>
+    <g id="O" transform="translate(278.000000, 567.000000)">
+      <g id="Group-3">
+        <rect id="Rectangle-2" x="0" y="0" width="24" height="24"></rect>
+        <circle id="Oval-3" stroke="#4844A3" stroke-width="2" cx="12" cy="12" r="5"></circle>
+      </g>
+    </g>
+    <g id="O" transform="translate(500.000000, 567.000000)">
+      <g id="Group-3">
+        <rect id="Rectangle-2" x="0" y="0" width="24" height="24"></rect>
+        <circle id="Oval-3" stroke="#4844A3" stroke-width="2" cx="12" cy="12" r="5"></circle>
+      </g>
+    </g>
+    <g id="O" transform="translate(670.000000, 567.000000)">
+      <g id="Group-3">
+        <rect id="Rectangle-2" x="0" y="0" width="24" height="24"></rect>
+        <circle id="Oval-3" stroke="#4844A3" stroke-width="2" cx="12" cy="12" r="5"></circle>
+      </g>
+    </g>
+    <g id="O" transform="translate(422.000000, 567.000000)">
+      <g id="Group-3">
+        <rect id="Rectangle-2" x="0" y="0" width="24" height="24"></rect>
+        <circle id="Oval-3" stroke="#4844A3" stroke-width="2" cx="12" cy="12" r="5"></circle>
+      </g>
+    </g>
+    <g id="O" transform="translate(252.000000, 593.000000)">
+      <g id="Group-3">
+        <rect id="Rectangle-2" x="0" y="0" width="24" height="24"></rect>
+        <circle id="Oval-3" stroke="#4844A3" stroke-width="2" cx="12" cy="12" r="5"></circle>
+      </g>
+    </g>
+    <g id="O" transform="translate(500.000000, 593.000000)">
+      <g id="Group-3">
+        <rect id="Rectangle-2" x="0" y="0" width="24" height="24"></rect>
+        <circle id="Oval-3" stroke="#4844A3" stroke-width="2" cx="12" cy="12" r="5"></circle>
+      </g>
+    </g>
+    <g id="O" transform="translate(644.000000, 593.000000)">
+      <g id="Group-3">
+        <rect id="Rectangle-2" x="0" y="0" width="24" height="24"></rect>
+        <circle id="Oval-3" stroke="#4844A3" stroke-width="2" cx="12" cy="12" r="5"></circle>
+      </g>
+    </g>
+    <g id="O" transform="translate(396.000000, 593.000000)">
+      <g id="Group-3">
+        <rect id="Rectangle-2" x="0" y="0" width="24" height="24"></rect>
+        <circle id="Oval-3" stroke="#4844A3" stroke-width="2" cx="12" cy="12" r="5"></circle>
+      </g>
+    </g>
+    <g id="O" transform="translate(670.000000, 593.000000)">
+      <g id="Group-3">
+        <rect id="Rectangle-2" x="0" y="0" width="24" height="24"></rect>
+        <circle id="Oval-3" stroke="#4844A3" stroke-width="2" cx="12" cy="12" r="5"></circle>
+      </g>
+    </g>
+    <g id="O" transform="translate(422.000000, 593.000000)">
+      <g id="Group-3">
+        <rect id="Rectangle-2" x="0" y="0" width="24" height="24"></rect>
+        <circle id="Oval-3" stroke="#4844A3" stroke-width="2" cx="12" cy="12" r="5"></circle>
+      </g>
+    </g>
+    <g id="O" transform="translate(200.000000, 249.000000)">
+      <g id="Group-3">
+        <rect id="Rectangle-2" x="0" y="0" width="24" height="24"></rect>
+        <circle id="Oval-3" stroke="#4844A3" stroke-width="2" cx="12" cy="12" r="5"></circle>
+      </g>
+    </g>
+    <g id="O" transform="translate(200.000000, 223.000000)">
+      <g id="Group-3">
+        <rect id="Rectangle-2" x="0" y="0" width="24" height="24"></rect>
+        <circle id="Oval-3" stroke="#4844A3" stroke-width="2" cx="12" cy="12" r="5"></circle>
+      </g>
+    </g>
+    <g id="O" transform="translate(476.000000, 33.000000)">
+      <g id="Group-3">
+        <rect id="Rectangle-2" x="0" y="0" width="24" height="24"></rect>
+        <circle id="Oval-3" stroke="#4844A3" stroke-width="2" cx="12" cy="12" r="5"></circle>
+      </g>
+    </g>
+    <g id="O" transform="translate(722.000000, 197.000000)">
+      <g id="Group-3">
+        <rect id="Rectangle-2" x="0" y="0" width="24" height="24"></rect>
+        <circle id="Oval-3" stroke="#4844A3" stroke-width="2" cx="12" cy="12" r="5"></circle>
+      </g>
+    </g>
+    <g id="O" transform="translate(474.000000, 197.000000)">
+      <g id="Group-3">
+        <rect id="Rectangle-2" x="0" y="0" width="24" height="24"></rect>
+        <circle id="Oval-3" stroke="#4844A3" stroke-width="2" cx="12" cy="12" r="5"></circle>
+      </g>
+    </g>
+    <g id="O" transform="translate(474.000000, 223.000000)">
+      <g id="Group-3">
+        <rect id="Rectangle-2" x="0" y="0" width="24" height="24"></rect>
+        <circle id="Oval-3" stroke="#4844A3" stroke-width="2" cx="12" cy="12" r="5"></circle>
+      </g>
+    </g>
+    <g id="O" transform="translate(670.000000, 368.000000)">
+      <g id="Group-3">
+        <rect id="Rectangle-2" x="0" y="0" width="24" height="24"></rect>
+        <circle id="Oval-3" stroke="#4844A3" stroke-width="2" cx="12" cy="12" r="5"></circle>
+      </g>
+    </g>
+    <g id="O" transform="translate(174.000000, 368.000000)">
+      <g id="Group-3">
+        <rect id="Rectangle-2" x="0" y="0" width="24" height="24"></rect>
+        <circle id="Oval-3" stroke="#4844A3" stroke-width="2" cx="12" cy="12" r="5"></circle>
+      </g>
+    </g>
+    <g id="O" transform="translate(174.000000, 541.000000)">
+      <g id="Group-3">
+        <rect id="Rectangle-2" x="0" y="0" width="24" height="24"></rect>
+        <circle id="Oval-3" stroke="#4844A3" stroke-width="2" cx="12" cy="12" r="5"></circle>
+      </g>
+    </g>
+    <g id="O" transform="translate(526.000000, 368.000000)">
+      <g id="Group-3">
+        <rect id="Rectangle-2" x="0" y="0" width="24" height="24"></rect>
+        <circle id="Oval-3" stroke="#4844A3" stroke-width="2" cx="12" cy="12" r="5"></circle>
+      </g>
+    </g>
+    <g id="O" transform="translate(526.000000, 394.000000)">
+      <g id="Group-3">
+        <rect id="Rectangle-2" x="0" y="0" width="24" height="24"></rect>
+        <circle id="Oval-3" stroke="#4844A3" stroke-width="2" cx="12" cy="12" r="5"></circle>
+      </g>
+    </g>
+    <g id="O" transform="translate(774.000000, 368.000000)">
+      <g id="Group-3">
+        <rect id="Rectangle-2" x="0" y="0" width="24" height="24"></rect>
+        <circle id="Oval-3" stroke="#4844A3" stroke-width="2" cx="12" cy="12" r="5"></circle>
+      </g>
+    </g>
+    <g id="O" transform="translate(278.000000, 368.000000)">
+      <g id="Group-3">
+        <rect id="Rectangle-2" x="0" y="0" width="24" height="24"></rect>
+        <circle id="Oval-3" stroke="#4844A3" stroke-width="2" cx="12" cy="12" r="5"></circle>
+      </g>
+    </g>
+    <g id="O" transform="translate(278.000000, 541.000000)">
+      <g id="Group-3">
+        <rect id="Rectangle-2" x="0" y="0" width="24" height="24"></rect>
+        <circle id="Oval-3" stroke="#4844A3" stroke-width="2" cx="12" cy="12" r="5"></circle>
+      </g>
+    </g>
+    <g id="O" transform="translate(526.000000, 541.000000)">
+      <g id="Group-3">
+        <rect id="Rectangle-2" x="0" y="0" width="24" height="24"></rect>
+        <circle id="Oval-3" stroke="#4844A3" stroke-width="2" cx="12" cy="12" r="5"></circle>
+      </g>
+    </g>
+    <g id="O" transform="translate(670.000000, 541.000000)">
+      <g id="Group-3">
+        <rect id="Rectangle-2" x="0" y="0" width="24" height="24"></rect>
+        <circle id="Oval-3" stroke="#4844A3" stroke-width="2" cx="12" cy="12" r="5"></circle>
+      </g>
+    </g>
+    <g id="O" transform="translate(422.000000, 541.000000)">
+      <g id="Group-3">
+        <rect id="Rectangle-2" x="0" y="0" width="24" height="24"></rect>
+        <circle id="Oval-3" stroke="#4844A3" stroke-width="2" cx="12" cy="12" r="5"></circle>
+      </g>
+    </g>
+    <g id="O" transform="translate(226.000000, 197.000000)">
+      <g id="Group-3">
+        <rect id="Rectangle-2" x="0" y="0" width="24" height="24"></rect>
+        <circle id="Oval-3" stroke="#4844A3" stroke-width="2" cx="12" cy="12" r="5"></circle>
+      </g>
+    </g>
+    <g id="X" transform="translate(424.000000, 59.000000)">
+      <g id="Group-2">
+        <rect id="Rectangle-2-Copy" x="0" y="0" width="24" height="24"></rect>
+        <g id="Group" transform="translate(6.000000, 6.000000)" fill="#19CA94">
+          <rect id="Rectangle" transform="translate(6.000000, 5.711538) rotate(45.000000) translate(-6.000000, -5.711538) " x="-0.923076923" y="4.78846154" width="13.8461538" height="1.84615385"></rect>
+          <rect id="Rectangle-Copy" transform="translate(6.000000, 5.711538) rotate(-45.000000) translate(-6.000000, -5.711538) " x="-0.923076923" y="4.78846154" width="13.8461538" height="1.84615385"></rect>
+        </g>
+      </g>
+    </g>
+    <g id="X" transform="translate(670.000000, 223.000000)">
+      <g id="Group-2">
+        <rect id="Rectangle-2-Copy" x="0" y="0" width="24" height="24"></rect>
+        <g id="Group" transform="translate(6.000000, 6.000000)" fill="#19CA94">
+          <rect id="Rectangle" transform="translate(6.000000, 5.711538) rotate(45.000000) translate(-6.000000, -5.711538) " x="-0.923076923" y="4.78846154" width="13.8461538" height="1.84615385"></rect>
+          <rect id="Rectangle-Copy" transform="translate(6.000000, 5.711538) rotate(-45.000000) translate(-6.000000, -5.711538) " x="-0.923076923" y="4.78846154" width="13.8461538" height="1.84615385"></rect>
+        </g>
+      </g>
+    </g>
+    <g id="X" transform="translate(670.000000, 249.000000)">
+      <g id="Group-2">
+        <rect id="Rectangle-2-Copy" x="0" y="0" width="24" height="24"></rect>
+        <g id="Group" transform="translate(6.000000, 6.000000)" fill="#19CA94">
+          <rect id="Rectangle" transform="translate(6.000000, 5.711538) rotate(45.000000) translate(-6.000000, -5.711538) " x="-0.923076923" y="4.78846154" width="13.8461538" height="1.84615385"></rect>
+          <rect id="Rectangle-Copy" transform="translate(6.000000, 5.711538) rotate(-45.000000) translate(-6.000000, -5.711538) " x="-0.923076923" y="4.78846154" width="13.8461538" height="1.84615385"></rect>
+        </g>
+      </g>
+    </g>
+    <g id="X" transform="translate(422.000000, 223.000000)">
+      <g id="Group-2">
+        <rect id="Rectangle-2-Copy" x="0" y="0" width="24" height="24"></rect>
+        <g id="Group" transform="translate(6.000000, 6.000000)" fill="#19CA94">
+          <rect id="Rectangle" transform="translate(6.000000, 5.711538) rotate(45.000000) translate(-6.000000, -5.711538) " x="-0.923076923" y="4.78846154" width="13.8461538" height="1.84615385"></rect>
+          <rect id="Rectangle-Copy" transform="translate(6.000000, 5.711538) rotate(-45.000000) translate(-6.000000, -5.711538) " x="-0.923076923" y="4.78846154" width="13.8461538" height="1.84615385"></rect>
+        </g>
+      </g>
+    </g>
+    <g id="X" transform="translate(422.000000, 249.000000)">
+      <g id="Group-2">
+        <rect id="Rectangle-2-Copy" x="0" y="0" width="24" height="24"></rect>
+        <g id="Group" transform="translate(6.000000, 6.000000)" fill="#19CA94">
+          <rect id="Rectangle" transform="translate(6.000000, 5.711538) rotate(45.000000) translate(-6.000000, -5.711538) " x="-0.923076923" y="4.78846154" width="13.8461538" height="1.84615385"></rect>
+          <rect id="Rectangle-Copy" transform="translate(6.000000, 5.711538) rotate(-45.000000) translate(-6.000000, -5.711538) " x="-0.923076923" y="4.78846154" width="13.8461538" height="1.84615385"></rect>
+        </g>
+      </g>
+    </g>
+    <g id="X" transform="translate(618.000000, 394.000000)">
+      <g id="Group-2">
+        <rect id="Rectangle-2-Copy" x="0" y="0" width="24" height="24"></rect>
+        <g id="Group" transform="translate(6.000000, 6.000000)" fill="#19CA94">
+          <rect id="Rectangle" transform="translate(6.000000, 5.711538) rotate(45.000000) translate(-6.000000, -5.711538) " x="-0.923076923" y="4.78846154" width="13.8461538" height="1.84615385"></rect>
+          <rect id="Rectangle-Copy" transform="translate(6.000000, 5.711538) rotate(-45.000000) translate(-6.000000, -5.711538) " x="-0.923076923" y="4.78846154" width="13.8461538" height="1.84615385"></rect>
+        </g>
+      </g>
+    </g>
+    <g id="X" transform="translate(618.000000, 420.000000)">
+      <g id="Group-2">
+        <rect id="Rectangle-2-Copy" x="0" y="0" width="24" height="24"></rect>
+        <g id="Group" transform="translate(6.000000, 6.000000)" fill="#19CA94">
+          <rect id="Rectangle" transform="translate(6.000000, 5.711538) rotate(45.000000) translate(-6.000000, -5.711538) " x="-0.923076923" y="4.78846154" width="13.8461538" height="1.84615385"></rect>
+          <rect id="Rectangle-Copy" transform="translate(6.000000, 5.711538) rotate(-45.000000) translate(-6.000000, -5.711538) " x="-0.923076923" y="4.78846154" width="13.8461538" height="1.84615385"></rect>
+        </g>
+      </g>
+    </g>
+    <g id="X" transform="translate(644.000000, 394.000000)">
+      <g id="Group-2">
+        <rect id="Rectangle-2-Copy" x="0" y="0" width="24" height="24"></rect>
+        <g id="Group" transform="translate(6.000000, 6.000000)" fill="#19CA94">
+          <rect id="Rectangle" transform="translate(6.000000, 5.711538) rotate(45.000000) translate(-6.000000, -5.711538) " x="-0.923076923" y="4.78846154" width="13.8461538" height="1.84615385"></rect>
+          <rect id="Rectangle-Copy" transform="translate(6.000000, 5.711538) rotate(-45.000000) translate(-6.000000, -5.711538) " x="-0.923076923" y="4.78846154" width="13.8461538" height="1.84615385"></rect>
+        </g>
+      </g>
+    </g>
+    <g id="X" transform="translate(122.000000, 394.000000)">
+      <g id="Group-2">
+        <rect id="Rectangle-2-Copy" x="0" y="0" width="24" height="24"></rect>
+        <g id="Group" transform="translate(6.000000, 6.000000)" fill="#19CA94">
+          <rect id="Rectangle" transform="translate(6.000000, 5.711538) rotate(45.000000) translate(-6.000000, -5.711538) " x="-0.923076923" y="4.78846154" width="13.8461538" height="1.84615385"></rect>
+          <rect id="Rectangle-Copy" transform="translate(6.000000, 5.711538) rotate(-45.000000) translate(-6.000000, -5.711538) " x="-0.923076923" y="4.78846154" width="13.8461538" height="1.84615385"></rect>
+        </g>
+      </g>
+    </g>
+    <g id="X" transform="translate(122.000000, 420.000000)">
+      <g id="Group-2">
+        <rect id="Rectangle-2-Copy" x="0" y="0" width="24" height="24"></rect>
+        <g id="Group" transform="translate(6.000000, 6.000000)" fill="#19CA94">
+          <rect id="Rectangle" transform="translate(6.000000, 5.711538) rotate(45.000000) translate(-6.000000, -5.711538) " x="-0.923076923" y="4.78846154" width="13.8461538" height="1.84615385"></rect>
+          <rect id="Rectangle-Copy" transform="translate(6.000000, 5.711538) rotate(-45.000000) translate(-6.000000, -5.711538) " x="-0.923076923" y="4.78846154" width="13.8461538" height="1.84615385"></rect>
+        </g>
+      </g>
+    </g>
+    <g id="X" transform="translate(278.000000, 420.000000)">
+      <g id="Group-2">
+        <rect id="Rectangle-2-Copy" x="0" y="0" width="24" height="24"></rect>
+        <g id="Group" transform="translate(6.000000, 6.000000)" fill="#19CA94">
+          <rect id="Rectangle" transform="translate(6.000000, 5.711538) rotate(45.000000) translate(-6.000000, -5.711538) " x="-0.923076923" y="4.78846154" width="13.8461538" height="1.84615385"></rect>
+          <rect id="Rectangle-Copy" transform="translate(6.000000, 5.711538) rotate(-45.000000) translate(-6.000000, -5.711538) " x="-0.923076923" y="4.78846154" width="13.8461538" height="1.84615385"></rect>
+        </g>
+      </g>
+    </g>
+    <g id="X" transform="translate(122.000000, 567.000000)">
+      <g id="Group-2">
+        <rect id="Rectangle-2-Copy" x="0" y="0" width="24" height="24"></rect>
+        <g id="Group" transform="translate(6.000000, 6.000000)" fill="#19CA94">
+          <rect id="Rectangle" transform="translate(6.000000, 5.711538) rotate(45.000000) translate(-6.000000, -5.711538) " x="-0.923076923" y="4.78846154" width="13.8461538" height="1.84615385"></rect>
+          <rect id="Rectangle-Copy" transform="translate(6.000000, 5.711538) rotate(-45.000000) translate(-6.000000, -5.711538) " x="-0.923076923" y="4.78846154" width="13.8461538" height="1.84615385"></rect>
+        </g>
+      </g>
+    </g>
+    <g id="X" transform="translate(122.000000, 593.000000)">
+      <g id="Group-2">
+        <rect id="Rectangle-2-Copy" x="0" y="0" width="24" height="24"></rect>
+        <g id="Group" transform="translate(6.000000, 6.000000)" fill="#19CA94">
+          <rect id="Rectangle" transform="translate(6.000000, 5.711538) rotate(45.000000) translate(-6.000000, -5.711538) " x="-0.923076923" y="4.78846154" width="13.8461538" height="1.84615385"></rect>
+          <rect id="Rectangle-Copy" transform="translate(6.000000, 5.711538) rotate(-45.000000) translate(-6.000000, -5.711538) " x="-0.923076923" y="4.78846154" width="13.8461538" height="1.84615385"></rect>
+        </g>
+      </g>
+    </g>
+    <g id="X" transform="translate(474.000000, 394.000000)">
+      <g id="Group-2">
+        <rect id="Rectangle-2-Copy" x="0" y="0" width="24" height="24"></rect>
+        <g id="Group" transform="translate(6.000000, 6.000000)" fill="#19CA94">
+          <rect id="Rectangle" transform="translate(6.000000, 5.711538) rotate(45.000000) translate(-6.000000, -5.711538) " x="-0.923076923" y="4.78846154" width="13.8461538" height="1.84615385"></rect>
+          <rect id="Rectangle-Copy" transform="translate(6.000000, 5.711538) rotate(-45.000000) translate(-6.000000, -5.711538) " x="-0.923076923" y="4.78846154" width="13.8461538" height="1.84615385"></rect>
+        </g>
+      </g>
+    </g>
+    <g id="X" transform="translate(722.000000, 394.000000)">
+      <g id="Group-2">
+        <rect id="Rectangle-2-Copy" x="0" y="0" width="24" height="24"></rect>
+        <g id="Group" transform="translate(6.000000, 6.000000)" fill="#19CA94">
+          <rect id="Rectangle" transform="translate(6.000000, 5.711538) rotate(45.000000) translate(-6.000000, -5.711538) " x="-0.923076923" y="4.78846154" width="13.8461538" height="1.84615385"></rect>
+          <rect id="Rectangle-Copy" transform="translate(6.000000, 5.711538) rotate(-45.000000) translate(-6.000000, -5.711538) " x="-0.923076923" y="4.78846154" width="13.8461538" height="1.84615385"></rect>
+        </g>
+      </g>
+    </g>
+    <g id="X" transform="translate(722.000000, 420.000000)">
+      <g id="Group-2">
+        <rect id="Rectangle-2-Copy" x="0" y="0" width="24" height="24"></rect>
+        <g id="Group" transform="translate(6.000000, 6.000000)" fill="#19CA94">
+          <rect id="Rectangle" transform="translate(6.000000, 5.711538) rotate(45.000000) translate(-6.000000, -5.711538) " x="-0.923076923" y="4.78846154" width="13.8461538" height="1.84615385"></rect>
+          <rect id="Rectangle-Copy" transform="translate(6.000000, 5.711538) rotate(-45.000000) translate(-6.000000, -5.711538) " x="-0.923076923" y="4.78846154" width="13.8461538" height="1.84615385"></rect>
+        </g>
+      </g>
+    </g>
+    <g id="X" transform="translate(226.000000, 394.000000)">
+      <g id="Group-2">
+        <rect id="Rectangle-2-Copy" x="0" y="0" width="24" height="24"></rect>
+        <g id="Group" transform="translate(6.000000, 6.000000)" fill="#19CA94">
+          <rect id="Rectangle" transform="translate(6.000000, 5.711538) rotate(45.000000) translate(-6.000000, -5.711538) " x="-0.923076923" y="4.78846154" width="13.8461538" height="1.84615385"></rect>
+          <rect id="Rectangle-Copy" transform="translate(6.000000, 5.711538) rotate(-45.000000) translate(-6.000000, -5.711538) " x="-0.923076923" y="4.78846154" width="13.8461538" height="1.84615385"></rect>
+        </g>
+      </g>
+    </g>
+    <g id="X" transform="translate(226.000000, 420.000000)">
+      <g id="Group-2">
+        <rect id="Rectangle-2-Copy" x="0" y="0" width="24" height="24"></rect>
+        <g id="Group" transform="translate(6.000000, 6.000000)" fill="#19CA94">
+          <rect id="Rectangle" transform="translate(6.000000, 5.711538) rotate(45.000000) translate(-6.000000, -5.711538) " x="-0.923076923" y="4.78846154" width="13.8461538" height="1.84615385"></rect>
+          <rect id="Rectangle-Copy" transform="translate(6.000000, 5.711538) rotate(-45.000000) translate(-6.000000, -5.711538) " x="-0.923076923" y="4.78846154" width="13.8461538" height="1.84615385"></rect>
+        </g>
+      </g>
+    </g>
+    <g id="X" transform="translate(226.000000, 567.000000)">
+      <g id="Group-2">
+        <rect id="Rectangle-2-Copy" x="0" y="0" width="24" height="24"></rect>
+        <g id="Group" transform="translate(6.000000, 6.000000)" fill="#19CA94">
+          <rect id="Rectangle" transform="translate(6.000000, 5.711538) rotate(45.000000) translate(-6.000000, -5.711538) " x="-0.923076923" y="4.78846154" width="13.8461538" height="1.84615385"></rect>
+          <rect id="Rectangle-Copy" transform="translate(6.000000, 5.711538) rotate(-45.000000) translate(-6.000000, -5.711538) " x="-0.923076923" y="4.78846154" width="13.8461538" height="1.84615385"></rect>
+        </g>
+      </g>
+    </g>
+    <g id="X" transform="translate(474.000000, 567.000000)">
+      <g id="Group-2">
+        <rect id="Rectangle-2-Copy" x="0" y="0" width="24" height="24"></rect>
+        <g id="Group" transform="translate(6.000000, 6.000000)" fill="#19CA94">
+          <rect id="Rectangle" transform="translate(6.000000, 5.711538) rotate(45.000000) translate(-6.000000, -5.711538) " x="-0.923076923" y="4.78846154" width="13.8461538" height="1.84615385"></rect>
+          <rect id="Rectangle-Copy" transform="translate(6.000000, 5.711538) rotate(-45.000000) translate(-6.000000, -5.711538) " x="-0.923076923" y="4.78846154" width="13.8461538" height="1.84615385"></rect>
+        </g>
+      </g>
+    </g>
+    <g id="X" transform="translate(474.000000, 593.000000)">
+      <g id="Group-2">
+        <rect id="Rectangle-2-Copy" x="0" y="0" width="24" height="24"></rect>
+        <g id="Group" transform="translate(6.000000, 6.000000)" fill="#19CA94">
+          <rect id="Rectangle" transform="translate(6.000000, 5.711538) rotate(45.000000) translate(-6.000000, -5.711538) " x="-0.923076923" y="4.78846154" width="13.8461538" height="1.84615385"></rect>
+          <rect id="Rectangle-Copy" transform="translate(6.000000, 5.711538) rotate(-45.000000) translate(-6.000000, -5.711538) " x="-0.923076923" y="4.78846154" width="13.8461538" height="1.84615385"></rect>
+        </g>
+      </g>
+    </g>
+    <g id="X" transform="translate(618.000000, 567.000000)">
+      <g id="Group-2">
+        <rect id="Rectangle-2-Copy" x="0" y="0" width="24" height="24"></rect>
+        <g id="Group" transform="translate(6.000000, 6.000000)" fill="#19CA94">
+          <rect id="Rectangle" transform="translate(6.000000, 5.711538) rotate(45.000000) translate(-6.000000, -5.711538) " x="-0.923076923" y="4.78846154" width="13.8461538" height="1.84615385"></rect>
+          <rect id="Rectangle-Copy" transform="translate(6.000000, 5.711538) rotate(-45.000000) translate(-6.000000, -5.711538) " x="-0.923076923" y="4.78846154" width="13.8461538" height="1.84615385"></rect>
+        </g>
+      </g>
+    </g>
+    <g id="X" transform="translate(370.000000, 567.000000)">
+      <g id="Group-2">
+        <rect id="Rectangle-2-Copy" x="0" y="0" width="24" height="24"></rect>
+        <g id="Group" transform="translate(6.000000, 6.000000)" fill="#19CA94">
+          <rect id="Rectangle" transform="translate(6.000000, 5.711538) rotate(45.000000) translate(-6.000000, -5.711538) " x="-0.923076923" y="4.78846154" width="13.8461538" height="1.84615385"></rect>
+          <rect id="Rectangle-Copy" transform="translate(6.000000, 5.711538) rotate(-45.000000) translate(-6.000000, -5.711538) " x="-0.923076923" y="4.78846154" width="13.8461538" height="1.84615385"></rect>
+        </g>
+      </g>
+    </g>
+    <g id="X" transform="translate(174.000000, 223.000000)">
+      <g id="Group-2">
+        <rect id="Rectangle-2-Copy" x="0" y="0" width="24" height="24"></rect>
+        <g id="Group" transform="translate(6.000000, 6.000000)" fill="#19CA94">
+          <rect id="Rectangle" transform="translate(6.000000, 5.711538) rotate(45.000000) translate(-6.000000, -5.711538) " x="-0.923076923" y="4.78846154" width="13.8461538" height="1.84615385"></rect>
+          <rect id="Rectangle-Copy" transform="translate(6.000000, 5.711538) rotate(-45.000000) translate(-6.000000, -5.711538) " x="-0.923076923" y="4.78846154" width="13.8461538" height="1.84615385"></rect>
+        </g>
+      </g>
+    </g>
+    <g id="X" transform="translate(174.000000, 249.000000)">
+      <g id="Group-2">
+        <rect id="Rectangle-2-Copy" x="0" y="0" width="24" height="24"></rect>
+        <g id="Group" transform="translate(6.000000, 6.000000)" fill="#19CA94">
+          <rect id="Rectangle" transform="translate(6.000000, 5.711538) rotate(45.000000) translate(-6.000000, -5.711538) " x="-0.923076923" y="4.78846154" width="13.8461538" height="1.84615385"></rect>
+          <rect id="Rectangle-Copy" transform="translate(6.000000, 5.711538) rotate(-45.000000) translate(-6.000000, -5.711538) " x="-0.923076923" y="4.78846154" width="13.8461538" height="1.84615385"></rect>
+        </g>
+      </g>
+    </g>
+    <g id="X" transform="translate(424.000000, 85.000000)">
+      <g id="Group-2">
+        <rect id="Rectangle-2-Copy" x="0" y="0" width="24" height="24"></rect>
+        <g id="Group" transform="translate(6.000000, 6.000000)" fill="#19CA94">
+          <rect id="Rectangle" transform="translate(6.000000, 5.711538) rotate(45.000000) translate(-6.000000, -5.711538) " x="-0.923076923" y="4.78846154" width="13.8461538" height="1.84615385"></rect>
+          <rect id="Rectangle-Copy" transform="translate(6.000000, 5.711538) rotate(-45.000000) translate(-6.000000, -5.711538) " x="-0.923076923" y="4.78846154" width="13.8461538" height="1.84615385"></rect>
+        </g>
+      </g>
+    </g>
+    <g id="X" transform="translate(174.000000, 394.000000)">
+      <g id="Group-2">
+        <rect id="Rectangle-2-Copy" x="0" y="0" width="24" height="24"></rect>
+        <g id="Group" transform="translate(6.000000, 6.000000)" fill="#19CA94">
+          <rect id="Rectangle" transform="translate(6.000000, 5.711538) rotate(45.000000) translate(-6.000000, -5.711538) " x="-0.923076923" y="4.78846154" width="13.8461538" height="1.84615385"></rect>
+          <rect id="Rectangle-Copy" transform="translate(6.000000, 5.711538) rotate(-45.000000) translate(-6.000000, -5.711538) " x="-0.923076923" y="4.78846154" width="13.8461538" height="1.84615385"></rect>
+        </g>
+      </g>
+    </g>
+    <g id="X" transform="translate(174.000000, 567.000000)">
+      <g id="Group-2">
+        <rect id="Rectangle-2-Copy" x="0" y="0" width="24" height="24"></rect>
+        <g id="Group" transform="translate(6.000000, 6.000000)" fill="#19CA94">
+          <rect id="Rectangle" transform="translate(6.000000, 5.711538) rotate(45.000000) translate(-6.000000, -5.711538) " x="-0.923076923" y="4.78846154" width="13.8461538" height="1.84615385"></rect>
+          <rect id="Rectangle-Copy" transform="translate(6.000000, 5.711538) rotate(-45.000000) translate(-6.000000, -5.711538) " x="-0.923076923" y="4.78846154" width="13.8461538" height="1.84615385"></rect>
+        </g>
+      </g>
+    </g>
+    <g id="X" transform="translate(526.000000, 420.000000)">
+      <g id="Group-2">
+        <rect id="Rectangle-2-Copy" x="0" y="0" width="24" height="24"></rect>
+        <g id="Group" transform="translate(6.000000, 6.000000)" fill="#19CA94">
+          <rect id="Rectangle" transform="translate(6.000000, 5.711538) rotate(45.000000) translate(-6.000000, -5.711538) " x="-0.923076923" y="4.78846154" width="13.8461538" height="1.84615385"></rect>
+          <rect id="Rectangle-Copy" transform="translate(6.000000, 5.711538) rotate(-45.000000) translate(-6.000000, -5.711538) " x="-0.923076923" y="4.78846154" width="13.8461538" height="1.84615385"></rect>
+        </g>
+      </g>
+    </g>
+    <g id="X" transform="translate(474.000000, 420.000000)">
+      <g id="Group-2">
+        <rect id="Rectangle-2-Copy" x="0" y="0" width="24" height="24"></rect>
+        <g id="Group" transform="translate(6.000000, 6.000000)" fill="#19CA94">
+          <rect id="Rectangle" transform="translate(6.000000, 5.711538) rotate(45.000000) translate(-6.000000, -5.711538) " x="-0.923076923" y="4.78846154" width="13.8461538" height="1.84615385"></rect>
+          <rect id="Rectangle-Copy" transform="translate(6.000000, 5.711538) rotate(-45.000000) translate(-6.000000, -5.711538) " x="-0.923076923" y="4.78846154" width="13.8461538" height="1.84615385"></rect>
+        </g>
+      </g>
+    </g>
+    <g id="X" transform="translate(774.000000, 394.000000)">
+      <g id="Group-2">
+        <rect id="Rectangle-2-Copy" x="0" y="0" width="24" height="24"></rect>
+        <g id="Group" transform="translate(6.000000, 6.000000)" fill="#19CA94">
+          <rect id="Rectangle" transform="translate(6.000000, 5.711538) rotate(45.000000) translate(-6.000000, -5.711538) " x="-0.923076923" y="4.78846154" width="13.8461538" height="1.84615385"></rect>
+          <rect id="Rectangle-Copy" transform="translate(6.000000, 5.711538) rotate(-45.000000) translate(-6.000000, -5.711538) " x="-0.923076923" y="4.78846154" width="13.8461538" height="1.84615385"></rect>
+        </g>
+      </g>
+    </g>
+    <g id="X" transform="translate(526.000000, 567.000000)">
+      <g id="Group-2">
+        <rect id="Rectangle-2-Copy" x="0" y="0" width="24" height="24"></rect>
+        <g id="Group" transform="translate(6.000000, 6.000000)" fill="#19CA94">
+          <rect id="Rectangle" transform="translate(6.000000, 5.711538) rotate(45.000000) translate(-6.000000, -5.711538) " x="-0.923076923" y="4.78846154" width="13.8461538" height="1.84615385"></rect>
+          <rect id="Rectangle-Copy" transform="translate(6.000000, 5.711538) rotate(-45.000000) translate(-6.000000, -5.711538) " x="-0.923076923" y="4.78846154" width="13.8461538" height="1.84615385"></rect>
+        </g>
+      </g>
+    </g>
+    <g id="X" transform="translate(644.000000, 567.000000)">
+      <g id="Group-2">
+        <rect id="Rectangle-2-Copy" x="0" y="0" width="24" height="24"></rect>
+        <g id="Group" transform="translate(6.000000, 6.000000)" fill="#19CA94">
+          <rect id="Rectangle" transform="translate(6.000000, 5.711538) rotate(45.000000) translate(-6.000000, -5.711538) " x="-0.923076923" y="4.78846154" width="13.8461538" height="1.84615385"></rect>
+          <rect id="Rectangle-Copy" transform="translate(6.000000, 5.711538) rotate(-45.000000) translate(-6.000000, -5.711538) " x="-0.923076923" y="4.78846154" width="13.8461538" height="1.84615385"></rect>
+        </g>
+      </g>
+    </g>
+    <g id="X" transform="translate(396.000000, 567.000000)">
+      <g id="Group-2">
+        <rect id="Rectangle-2-Copy" x="0" y="0" width="24" height="24"></rect>
+        <g id="Group" transform="translate(6.000000, 6.000000)" fill="#19CA94">
+          <rect id="Rectangle" transform="translate(6.000000, 5.711538) rotate(45.000000) translate(-6.000000, -5.711538) " x="-0.923076923" y="4.78846154" width="13.8461538" height="1.84615385"></rect>
+          <rect id="Rectangle-Copy" transform="translate(6.000000, 5.711538) rotate(-45.000000) translate(-6.000000, -5.711538) " x="-0.923076923" y="4.78846154" width="13.8461538" height="1.84615385"></rect>
+        </g>
+      </g>
+    </g>
+    <g id="X" transform="translate(278.000000, 593.000000)">
+      <g id="Group-2">
+        <rect id="Rectangle-2-Copy" x="0" y="0" width="24" height="24"></rect>
+        <g id="Group" transform="translate(6.000000, 6.000000)" fill="#19CA94">
+          <rect id="Rectangle" transform="translate(6.000000, 5.711538) rotate(45.000000) translate(-6.000000, -5.711538) " x="-0.923076923" y="4.78846154" width="13.8461538" height="1.84615385"></rect>
+          <rect id="Rectangle-Copy" transform="translate(6.000000, 5.711538) rotate(-45.000000) translate(-6.000000, -5.711538) " x="-0.923076923" y="4.78846154" width="13.8461538" height="1.84615385"></rect>
+        </g>
+      </g>
+    </g>
+    <g id="X" transform="translate(226.000000, 593.000000)">
+      <g id="Group-2">
+        <rect id="Rectangle-2-Copy" x="0" y="0" width="24" height="24"></rect>
+        <g id="Group" transform="translate(6.000000, 6.000000)" fill="#19CA94">
+          <rect id="Rectangle" transform="translate(6.000000, 5.711538) rotate(45.000000) translate(-6.000000, -5.711538) " x="-0.923076923" y="4.78846154" width="13.8461538" height="1.84615385"></rect>
+          <rect id="Rectangle-Copy" transform="translate(6.000000, 5.711538) rotate(-45.000000) translate(-6.000000, -5.711538) " x="-0.923076923" y="4.78846154" width="13.8461538" height="1.84615385"></rect>
+        </g>
+      </g>
+    </g>
+    <g id="X" transform="translate(526.000000, 593.000000)">
+      <g id="Group-2">
+        <rect id="Rectangle-2-Copy" x="0" y="0" width="24" height="24"></rect>
+        <g id="Group" transform="translate(6.000000, 6.000000)" fill="#19CA94">
+          <rect id="Rectangle" transform="translate(6.000000, 5.711538) rotate(45.000000) translate(-6.000000, -5.711538) " x="-0.923076923" y="4.78846154" width="13.8461538" height="1.84615385"></rect>
+          <rect id="Rectangle-Copy" transform="translate(6.000000, 5.711538) rotate(-45.000000) translate(-6.000000, -5.711538) " x="-0.923076923" y="4.78846154" width="13.8461538" height="1.84615385"></rect>
+        </g>
+      </g>
+    </g>
+    <g id="X" transform="translate(618.000000, 593.000000)">
+      <g id="Group-2">
+        <rect id="Rectangle-2-Copy" x="0" y="0" width="24" height="24"></rect>
+        <g id="Group" transform="translate(6.000000, 6.000000)" fill="#19CA94">
+          <rect id="Rectangle" transform="translate(6.000000, 5.711538) rotate(45.000000) translate(-6.000000, -5.711538) " x="-0.923076923" y="4.78846154" width="13.8461538" height="1.84615385"></rect>
+          <rect id="Rectangle-Copy" transform="translate(6.000000, 5.711538) rotate(-45.000000) translate(-6.000000, -5.711538) " x="-0.923076923" y="4.78846154" width="13.8461538" height="1.84615385"></rect>
+        </g>
+      </g>
+    </g>
+    <g id="X" transform="translate(370.000000, 593.000000)">
+      <g id="Group-2">
+        <rect id="Rectangle-2-Copy" x="0" y="0" width="24" height="24"></rect>
+        <g id="Group" transform="translate(6.000000, 6.000000)" fill="#19CA94">
+          <rect id="Rectangle" transform="translate(6.000000, 5.711538) rotate(45.000000) translate(-6.000000, -5.711538) " x="-0.923076923" y="4.78846154" width="13.8461538" height="1.84615385"></rect>
+          <rect id="Rectangle-Copy" transform="translate(6.000000, 5.711538) rotate(-45.000000) translate(-6.000000, -5.711538) " x="-0.923076923" y="4.78846154" width="13.8461538" height="1.84615385"></rect>
+        </g>
+      </g>
+    </g>
+    <g id="X" transform="translate(450.000000, 33.000000)">
+      <g id="Group-2">
+        <rect id="Rectangle-2-Copy" x="0" y="0" width="24" height="24"></rect>
+        <g id="Group" transform="translate(6.000000, 6.000000)" fill="#19CA94">
+          <rect id="Rectangle" transform="translate(6.000000, 5.711538) rotate(45.000000) translate(-6.000000, -5.711538) " x="-0.923076923" y="4.78846154" width="13.8461538" height="1.84615385"></rect>
+          <rect id="Rectangle-Copy" transform="translate(6.000000, 5.711538) rotate(-45.000000) translate(-6.000000, -5.711538) " x="-0.923076923" y="4.78846154" width="13.8461538" height="1.84615385"></rect>
+        </g>
+      </g>
+    </g>
+    <g id="X" transform="translate(696.000000, 197.000000)">
+      <g id="Group-2">
+        <rect id="Rectangle-2-Copy" x="0" y="0" width="24" height="24"></rect>
+        <g id="Group" transform="translate(6.000000, 6.000000)" fill="#19CA94">
+          <rect id="Rectangle" transform="translate(6.000000, 5.711538) rotate(45.000000) translate(-6.000000, -5.711538) " x="-0.923076923" y="4.78846154" width="13.8461538" height="1.84615385"></rect>
+          <rect id="Rectangle-Copy" transform="translate(6.000000, 5.711538) rotate(-45.000000) translate(-6.000000, -5.711538) " x="-0.923076923" y="4.78846154" width="13.8461538" height="1.84615385"></rect>
+        </g>
+      </g>
+    </g>
+    <g id="X" transform="translate(448.000000, 197.000000)">
+      <g id="Group-2">
+        <rect id="Rectangle-2-Copy" x="0" y="0" width="24" height="24"></rect>
+        <g id="Group" transform="translate(6.000000, 6.000000)" fill="#19CA94">
+          <rect id="Rectangle" transform="translate(6.000000, 5.711538) rotate(45.000000) translate(-6.000000, -5.711538) " x="-0.923076923" y="4.78846154" width="13.8461538" height="1.84615385"></rect>
+          <rect id="Rectangle-Copy" transform="translate(6.000000, 5.711538) rotate(-45.000000) translate(-6.000000, -5.711538) " x="-0.923076923" y="4.78846154" width="13.8461538" height="1.84615385"></rect>
+        </g>
+      </g>
+    </g>
+    <g id="X" transform="translate(644.000000, 368.000000)">
+      <g id="Group-2">
+        <rect id="Rectangle-2-Copy" x="0" y="0" width="24" height="24"></rect>
+        <g id="Group" transform="translate(6.000000, 6.000000)" fill="#19CA94">
+          <rect id="Rectangle" transform="translate(6.000000, 5.711538) rotate(45.000000) translate(-6.000000, -5.711538) " x="-0.923076923" y="4.78846154" width="13.8461538" height="1.84615385"></rect>
+          <rect id="Rectangle-Copy" transform="translate(6.000000, 5.711538) rotate(-45.000000) translate(-6.000000, -5.711538) " x="-0.923076923" y="4.78846154" width="13.8461538" height="1.84615385"></rect>
+        </g>
+      </g>
+    </g>
+    <g id="X" transform="translate(148.000000, 368.000000)">
+      <g id="Group-2">
+        <rect id="Rectangle-2-Copy" x="0" y="0" width="24" height="24"></rect>
+        <g id="Group" transform="translate(6.000000, 6.000000)" fill="#19CA94">
+          <rect id="Rectangle" transform="translate(6.000000, 5.711538) rotate(45.000000) translate(-6.000000, -5.711538) " x="-0.923076923" y="4.78846154" width="13.8461538" height="1.84615385"></rect>
+          <rect id="Rectangle-Copy" transform="translate(6.000000, 5.711538) rotate(-45.000000) translate(-6.000000, -5.711538) " x="-0.923076923" y="4.78846154" width="13.8461538" height="1.84615385"></rect>
+        </g>
+      </g>
+    </g>
+    <g id="X" transform="translate(148.000000, 541.000000)">
+      <g id="Group-2">
+        <rect id="Rectangle-2-Copy" x="0" y="0" width="24" height="24"></rect>
+        <g id="Group" transform="translate(6.000000, 6.000000)" fill="#19CA94">
+          <rect id="Rectangle" transform="translate(6.000000, 5.711538) rotate(45.000000) translate(-6.000000, -5.711538) " x="-0.923076923" y="4.78846154" width="13.8461538" height="1.84615385"></rect>
+          <rect id="Rectangle-Copy" transform="translate(6.000000, 5.711538) rotate(-45.000000) translate(-6.000000, -5.711538) " x="-0.923076923" y="4.78846154" width="13.8461538" height="1.84615385"></rect>
+        </g>
+      </g>
+    </g>
+    <g id="X" transform="translate(500.000000, 368.000000)">
+      <g id="Group-2">
+        <rect id="Rectangle-2-Copy" x="0" y="0" width="24" height="24"></rect>
+        <g id="Group" transform="translate(6.000000, 6.000000)" fill="#19CA94">
+          <rect id="Rectangle" transform="translate(6.000000, 5.711538) rotate(45.000000) translate(-6.000000, -5.711538) " x="-0.923076923" y="4.78846154" width="13.8461538" height="1.84615385"></rect>
+          <rect id="Rectangle-Copy" transform="translate(6.000000, 5.711538) rotate(-45.000000) translate(-6.000000, -5.711538) " x="-0.923076923" y="4.78846154" width="13.8461538" height="1.84615385"></rect>
+        </g>
+      </g>
+    </g>
+    <g id="X" transform="translate(748.000000, 368.000000)">
+      <g id="Group-2">
+        <rect id="Rectangle-2-Copy" x="0" y="0" width="24" height="24"></rect>
+        <g id="Group" transform="translate(6.000000, 6.000000)" fill="#19CA94">
+          <rect id="Rectangle" transform="translate(6.000000, 5.711538) rotate(45.000000) translate(-6.000000, -5.711538) " x="-0.923076923" y="4.78846154" width="13.8461538" height="1.84615385"></rect>
+          <rect id="Rectangle-Copy" transform="translate(6.000000, 5.711538) rotate(-45.000000) translate(-6.000000, -5.711538) " x="-0.923076923" y="4.78846154" width="13.8461538" height="1.84615385"></rect>
+        </g>
+      </g>
+    </g>
+    <g id="X" transform="translate(252.000000, 368.000000)">
+      <g id="Group-2">
+        <rect id="Rectangle-2-Copy" x="0" y="0" width="24" height="24"></rect>
+        <g id="Group" transform="translate(6.000000, 6.000000)" fill="#19CA94">
+          <rect id="Rectangle" transform="translate(6.000000, 5.711538) rotate(45.000000) translate(-6.000000, -5.711538) " x="-0.923076923" y="4.78846154" width="13.8461538" height="1.84615385"></rect>
+          <rect id="Rectangle-Copy" transform="translate(6.000000, 5.711538) rotate(-45.000000) translate(-6.000000, -5.711538) " x="-0.923076923" y="4.78846154" width="13.8461538" height="1.84615385"></rect>
+        </g>
+      </g>
+    </g>
+    <g id="X" transform="translate(252.000000, 541.000000)">
+      <g id="Group-2">
+        <rect id="Rectangle-2-Copy" x="0" y="0" width="24" height="24"></rect>
+        <g id="Group" transform="translate(6.000000, 6.000000)" fill="#19CA94">
+          <rect id="Rectangle" transform="translate(6.000000, 5.711538) rotate(45.000000) translate(-6.000000, -5.711538) " x="-0.923076923" y="4.78846154" width="13.8461538" height="1.84615385"></rect>
+          <rect id="Rectangle-Copy" transform="translate(6.000000, 5.711538) rotate(-45.000000) translate(-6.000000, -5.711538) " x="-0.923076923" y="4.78846154" width="13.8461538" height="1.84615385"></rect>
+        </g>
+      </g>
+    </g>
+    <g id="X" transform="translate(500.000000, 541.000000)">
+      <g id="Group-2">
+        <rect id="Rectangle-2-Copy" x="0" y="0" width="24" height="24"></rect>
+        <g id="Group" transform="translate(6.000000, 6.000000)" fill="#19CA94">
+          <rect id="Rectangle" transform="translate(6.000000, 5.711538) rotate(45.000000) translate(-6.000000, -5.711538) " x="-0.923076923" y="4.78846154" width="13.8461538" height="1.84615385"></rect>
+          <rect id="Rectangle-Copy" transform="translate(6.000000, 5.711538) rotate(-45.000000) translate(-6.000000, -5.711538) " x="-0.923076923" y="4.78846154" width="13.8461538" height="1.84615385"></rect>
+        </g>
+      </g>
+    </g>
+    <g id="X" transform="translate(644.000000, 541.000000)">
+      <g id="Group-2">
+        <rect id="Rectangle-2-Copy" x="0" y="0" width="24" height="24"></rect>
+        <g id="Group" transform="translate(6.000000, 6.000000)" fill="#19CA94">
+          <rect id="Rectangle" transform="translate(6.000000, 5.711538) rotate(45.000000) translate(-6.000000, -5.711538) " x="-0.923076923" y="4.78846154" width="13.8461538" height="1.84615385"></rect>
+          <rect id="Rectangle-Copy" transform="translate(6.000000, 5.711538) rotate(-45.000000) translate(-6.000000, -5.711538) " x="-0.923076923" y="4.78846154" width="13.8461538" height="1.84615385"></rect>
+        </g>
+      </g>
+    </g>
+    <g id="X" transform="translate(396.000000, 541.000000)">
+      <g id="Group-2">
+        <rect id="Rectangle-2-Copy" x="0" y="0" width="24" height="24"></rect>
+        <g id="Group" transform="translate(6.000000, 6.000000)" fill="#19CA94">
+          <rect id="Rectangle" transform="translate(6.000000, 5.711538) rotate(45.000000) translate(-6.000000, -5.711538) " x="-0.923076923" y="4.78846154" width="13.8461538" height="1.84615385"></rect>
+          <rect id="Rectangle-Copy" transform="translate(6.000000, 5.711538) rotate(-45.000000) translate(-6.000000, -5.711538) " x="-0.923076923" y="4.78846154" width="13.8461538" height="1.84615385"></rect>
+        </g>
+      </g>
+    </g>
+    <g id="X" transform="translate(200.000000, 197.000000)">
+      <g id="Group-2">
+        <rect id="Rectangle-2-Copy" x="0" y="0" width="24" height="24"></rect>
+        <g id="Group" transform="translate(6.000000, 6.000000)" fill="#19CA94">
+          <rect id="Rectangle" transform="translate(6.000000, 5.711538) rotate(45.000000) translate(-6.000000, -5.711538) " x="-0.923076923" y="4.78846154" width="13.8461538" height="1.84615385"></rect>
+          <rect id="Rectangle-Copy" transform="translate(6.000000, 5.711538) rotate(-45.000000) translate(-6.000000, -5.711538) " x="-0.923076923" y="4.78846154" width="13.8461538" height="1.84615385"></rect>
+        </g>
+      </g>
+    </g>
+    <rect id="Rectangle-18" stroke-opacity="0.5" stroke="#CDCCE2" stroke-width="2" x="423" y="32" width="78" height="78" rx="8"></rect>
+    <rect id="Rectangle-18-Copy" stroke-opacity="0.5" stroke="#CDCCE2" stroke-width="2" x="669" y="196" width="78" height="78" rx="8"></rect>
+    <rect id="Rectangle-18-Copy-2" stroke-opacity="0.5" stroke="#CDCCE2" stroke-width="2" x="421" y="196" width="78" height="78" rx="8"></rect>
+    <rect id="Rectangle-18-Copy-6" stroke-opacity="0.5" stroke="#CDCCE2" stroke-width="2" x="617" y="367" width="78" height="78" rx="8"></rect>
+    <rect id="Rectangle-18-Copy-8" stroke-opacity="0.5" stroke="#CDCCE2" stroke-width="2" x="121" y="367" width="78" height="78" rx="8"></rect>
+    <rect id="Rectangle-18-Copy-12" stroke-opacity="0.5" stroke="#CDCCE2" stroke-width="2" x="121" y="540" width="78" height="78" rx="8"></rect>
+    <rect id="Rectangle-18-Copy-5" stroke-opacity="0.5" stroke="#CDCCE2" stroke-width="2" x="473" y="367" width="78" height="78" rx="8"></rect>
+    <rect id="Rectangle-18-Copy-7" stroke-opacity="0.5" stroke="#CDCCE2" stroke-width="2" x="721" y="367" width="78" height="78" rx="8"></rect>
+    <rect id="Rectangle-18-Copy-9" stroke-opacity="0.5" stroke="#CDCCE2" stroke-width="2" x="225" y="367" width="78" height="78" rx="8"></rect>
+    <rect id="Rectangle-18-Copy-15" stroke-opacity="0.5" stroke="#CDCCE2" stroke-width="2" x="225" y="540" width="78" height="78" rx="8"></rect>
+    <rect id="Rectangle-18-Copy-16" stroke-opacity="0.5" stroke="#CDCCE2" stroke-width="2" x="473" y="540" width="78" height="78" rx="8"></rect>
+    <rect id="Rectangle-18-Copy-19" stroke-opacity="0.5" stroke="#CDCCE2" stroke-width="2" x="617" y="540" width="78" height="78" rx="8"></rect>
+    <rect id="Rectangle-18-Copy-20" stroke-opacity="0.5" stroke="#CDCCE2" stroke-width="2" x="369" y="540" width="78" height="78" rx="8"></rect>
+    <rect id="Rectangle-18-Copy-3" stroke-opacity="0.5" stroke="#CDCCE2" stroke-width="2" x="173" y="196" width="78" height="78" rx="8"></rect>
+    <rect id="Rectangle-19" fill="#E4E3EC" x="448" y="31" width="2" height="80"></rect>
+    <rect id="Rectangle-19-Copy-4" fill="#E4E3EC" x="694" y="195" width="2" height="80"></rect>
+    <rect id="Rectangle-19-Copy-6" fill="#E4E3EC" x="446" y="195" width="2" height="80"></rect>
+    <rect id="Rectangle-19-Copy-14" fill="#E4E3EC" x="642" y="366" width="2" height="80"></rect>
+    <rect id="Rectangle-19-Copy-18" fill="#E4E3EC" x="146" y="366" width="2" height="80"></rect>
+    <rect id="Rectangle-19-Copy-24" fill="#E4E3EC" x="146" y="539" width="2" height="80"></rect>
+    <rect id="Rectangle-19-Copy-12" fill="#E4E3EC" x="498" y="366" width="2" height="80"></rect>
+    <rect id="Rectangle-19-Copy-15" fill="#E4E3EC" x="746" y="366" width="2" height="80"></rect>
+    <rect id="Rectangle-19-Copy-19" fill="#E4E3EC" x="250" y="366" width="2" height="80"></rect>
+    <rect id="Rectangle-19-Copy-27" fill="#E4E3EC" x="250" y="539" width="2" height="80"></rect>
+    <rect id="Rectangle-19-Copy-28" fill="#E4E3EC" x="498" y="539" width="2" height="80"></rect>
+    <rect id="Rectangle-19-Copy-40" fill="#E4E3EC" x="642" y="539" width="2" height="80"></rect>
+    <rect id="Rectangle-19-Copy-44" fill="#E4E3EC" x="394" y="539" width="2" height="80"></rect>
+    <rect id="Rectangle-19-Copy-8" fill="#E4E3EC" x="198" y="195" width="2" height="80"></rect>
+    <rect id="Rectangle-19-Copy" fill="#E4E3EC" x="474" y="31" width="2" height="80"></rect>
+    <rect id="Rectangle-19-Copy-5" fill="#E4E3EC" x="720" y="195" width="2" height="80"></rect>
+    <rect id="Rectangle-19-Copy-7" fill="#E4E3EC" x="472" y="195" width="2" height="80"></rect>
+    <rect id="Rectangle-19-Copy-16" fill="#E4E3EC" x="668" y="366" width="2" height="80"></rect>
+    <rect id="Rectangle-19-Copy-20" fill="#E4E3EC" x="172" y="366" width="2" height="80"></rect>
+    <rect id="Rectangle-19-Copy-30" fill="#E4E3EC" x="172" y="539" width="2" height="80"></rect>
+    <rect id="Rectangle-19-Copy-13" fill="#E4E3EC" x="524" y="366" width="2" height="80"></rect>
+    <rect id="Rectangle-19-Copy-17" fill="#E4E3EC" x="772" y="366" width="2" height="80"></rect>
+    <rect id="Rectangle-19-Copy-21" fill="#E4E3EC" x="276" y="366" width="2" height="80"></rect>
+    <rect id="Rectangle-19-Copy-33" fill="#E4E3EC" x="276" y="539" width="2" height="80"></rect>
+    <rect id="Rectangle-19-Copy-34" fill="#E4E3EC" x="524" y="539" width="2" height="80"></rect>
+    <rect id="Rectangle-19-Copy-41" fill="#E4E3EC" x="668" y="539" width="2" height="80"></rect>
+    <rect id="Rectangle-19-Copy-45" fill="#E4E3EC" x="420" y="539" width="2" height="80"></rect>
+    <rect id="Rectangle-19-Copy-9" fill="#E4E3EC" x="224" y="195" width="2" height="80"></rect>
+    <rect id="Rectangle-19-Copy-2" fill="#E4E3EC" transform="translate(462.000000, 58.000000) rotate(90.000000) translate(-462.000000, -58.000000) " x="461" y="18" width="2" height="80"></rect>
+    <rect id="Rectangle-19-Copy-3" fill="#E4E3EC" transform="translate(462.000000, 84.000000) rotate(90.000000) translate(-462.000000, -84.000000) " x="461" y="44" width="2" height="80"></rect>
+    <rect id="Rectangle-19-Copy-2" fill="#E4E3EC" transform="translate(708.000000, 222.000000) rotate(90.000000) translate(-708.000000, -222.000000) " x="707" y="182" width="2" height="80"></rect>
+    <rect id="Rectangle-19-Copy-3" fill="#E4E3EC" transform="translate(708.000000, 248.000000) rotate(90.000000) translate(-708.000000, -248.000000) " x="707" y="208" width="2" height="80"></rect>
+    <rect id="Rectangle-19-Copy-2" fill="#E4E3EC" transform="translate(460.000000, 222.000000) rotate(90.000000) translate(-460.000000, -222.000000) " x="459" y="182" width="2" height="80"></rect>
+    <rect id="Rectangle-19-Copy-3" fill="#E4E3EC" transform="translate(460.000000, 248.000000) rotate(90.000000) translate(-460.000000, -248.000000) " x="459" y="208" width="2" height="80"></rect>
+    <rect id="Rectangle-19-Copy-2" fill="#E4E3EC" transform="translate(656.000000, 393.000000) rotate(90.000000) translate(-656.000000, -393.000000) " x="655" y="353" width="2" height="80"></rect>
+    <rect id="Rectangle-19-Copy-3" fill="#E4E3EC" transform="translate(656.000000, 419.000000) rotate(90.000000) translate(-656.000000, -419.000000) " x="655" y="379" width="2" height="80"></rect>
+    <g id="O" transform="translate(432.000000, 380.000000) scale(-1, 1) translate(-432.000000, -380.000000) translate(420.000000, 368.000000)">
+      <g id="Group-3">
+        <rect id="Rectangle-2" x="0" y="0" width="24" height="24"></rect>
+        <circle id="Oval-3" stroke="#4844A3" stroke-width="2" cx="12" cy="12" r="5"></circle>
+      </g>
+    </g>
+    <g id="O" transform="translate(432.000000, 406.000000) scale(-1, 1) translate(-432.000000, -406.000000) translate(420.000000, 394.000000)">
+      <g id="Group-3">
+        <rect id="Rectangle-2" x="0" y="0" width="24" height="24"></rect>
+        <circle id="Oval-3" stroke="#4844A3" stroke-width="2" cx="12" cy="12" r="5"></circle>
+      </g>
+    </g>
+    <g id="O" transform="translate(406.000000, 432.000000) scale(-1, 1) translate(-406.000000, -432.000000) translate(394.000000, 420.000000)">
+      <g id="Group-3">
+        <rect id="Rectangle-2" x="0" y="0" width="24" height="24"></rect>
+        <circle id="Oval-3" stroke="#4844A3" stroke-width="2" cx="12" cy="12" r="5"></circle>
+      </g>
+    </g>
+    <g id="O" transform="translate(380.000000, 380.000000) scale(-1, 1) translate(-380.000000, -380.000000) translate(368.000000, 368.000000)">
+      <g id="Group-3">
+        <rect id="Rectangle-2" x="0" y="0" width="24" height="24"></rect>
+        <circle id="Oval-3" stroke="#4844A3" stroke-width="2" cx="12" cy="12" r="5"></circle>
+      </g>
+    </g>
+    <g id="X" transform="translate(406.000000, 406.000000) scale(-1, 1) translate(-406.000000, -406.000000) translate(394.000000, 394.000000)">
+      <g id="Group-2">
+        <rect id="Rectangle-2-Copy" x="0" y="0" width="24" height="24"></rect>
+        <g id="Group" transform="translate(6.000000, 6.000000)" fill="#19CA94">
+          <rect id="Rectangle" transform="translate(6.000000, 5.711538) rotate(45.000000) translate(-6.000000, -5.711538) " x="-0.923076923" y="4.78846154" width="13.8461538" height="1.84615385"></rect>
+          <rect id="Rectangle-Copy" transform="translate(6.000000, 5.711538) rotate(-45.000000) translate(-6.000000, -5.711538) " x="-0.923076923" y="4.78846154" width="13.8461538" height="1.84615385"></rect>
+        </g>
+      </g>
+    </g>
+    <g id="X" transform="translate(380.000000, 406.000000) scale(-1, 1) translate(-380.000000, -406.000000) translate(368.000000, 394.000000)">
+      <g id="Group-2">
+        <rect id="Rectangle-2-Copy" x="0" y="0" width="24" height="24"></rect>
+        <g id="Group" transform="translate(6.000000, 6.000000)" fill="#19CA94">
+          <rect id="Rectangle" transform="translate(6.000000, 5.711538) rotate(45.000000) translate(-6.000000, -5.711538) " x="-0.923076923" y="4.78846154" width="13.8461538" height="1.84615385"></rect>
+          <rect id="Rectangle-Copy" transform="translate(6.000000, 5.711538) rotate(-45.000000) translate(-6.000000, -5.711538) " x="-0.923076923" y="4.78846154" width="13.8461538" height="1.84615385"></rect>
+        </g>
+      </g>
+    </g>
+    <g id="X" transform="translate(380.000000, 432.000000) scale(-1, 1) translate(-380.000000, -432.000000) translate(368.000000, 420.000000)">
+      <g id="Group-2">
+        <rect id="Rectangle-2-Copy" x="0" y="0" width="24" height="24"></rect>
+        <g id="Group" transform="translate(6.000000, 6.000000)" fill="#19CA94">
+          <rect id="Rectangle" transform="translate(6.000000, 5.711538) rotate(45.000000) translate(-6.000000, -5.711538) " x="-0.923076923" y="4.78846154" width="13.8461538" height="1.84615385"></rect>
+          <rect id="Rectangle-Copy" transform="translate(6.000000, 5.711538) rotate(-45.000000) translate(-6.000000, -5.711538) " x="-0.923076923" y="4.78846154" width="13.8461538" height="1.84615385"></rect>
+        </g>
+      </g>
+    </g>
+    <g id="X" transform="translate(406.000000, 380.000000) scale(-1, 1) translate(-406.000000, -380.000000) translate(394.000000, 368.000000)">
+      <g id="Group-2">
+        <rect id="Rectangle-2-Copy" x="0" y="0" width="24" height="24"></rect>
+        <g id="Group" transform="translate(6.000000, 6.000000)" fill="#19CA94">
+          <rect id="Rectangle" transform="translate(6.000000, 5.711538) rotate(45.000000) translate(-6.000000, -5.711538) " x="-0.923076923" y="4.78846154" width="13.8461538" height="1.84615385"></rect>
+          <rect id="Rectangle-Copy" transform="translate(6.000000, 5.711538) rotate(-45.000000) translate(-6.000000, -5.711538) " x="-0.923076923" y="4.78846154" width="13.8461538" height="1.84615385"></rect>
+        </g>
+      </g>
+    </g>
+    <rect id="Rectangle-18-Copy-10" stroke-opacity="0.5" stroke="#CDCCE2" stroke-width="2" transform="translate(406.000000, 406.000000) scale(-1, 1) translate(-406.000000, -406.000000) " x="367" y="367" width="78" height="78" rx="8"></rect>
+    <rect id="Rectangle-19-Copy-31" fill="#E4E3EC" transform="translate(419.000000, 406.000000) scale(-1, 1) translate(-419.000000, -406.000000) " x="418" y="366" width="2" height="80"></rect>
+    <rect id="Rectangle-19-Copy-32" fill="#E4E3EC" transform="translate(393.000000, 406.000000) scale(-1, 1) translate(-393.000000, -406.000000) " x="392" y="366" width="2" height="80"></rect>
+    <rect id="Rectangle-19-Copy-10" fill="#E4E3EC" transform="translate(406.000000, 393.000000) scale(-1, 1) rotate(90.000000) translate(-406.000000, -393.000000) " x="405" y="353" width="2" height="80"></rect>
+    <rect id="Rectangle-19-Copy-11" fill="#E4E3EC" transform="translate(406.000000, 419.000000) scale(-1, 1) rotate(90.000000) translate(-406.000000, -419.000000) " x="405" y="379" width="2" height="80"></rect>
+    <rect id="Rectangle-19-Copy-2" fill="#E4E3EC" transform="translate(160.000000, 393.000000) rotate(90.000000) translate(-160.000000, -393.000000) " x="159" y="353" width="2" height="80"></rect>
+    <rect id="Rectangle-19-Copy-3" fill="#E4E3EC" transform="translate(160.000000, 419.000000) rotate(90.000000) translate(-160.000000, -419.000000) " x="159" y="379" width="2" height="80"></rect>
+    <rect id="Rectangle-19-Copy-2" fill="#E4E3EC" transform="translate(160.000000, 566.000000) rotate(90.000000) translate(-160.000000, -566.000000) " x="159" y="526" width="2" height="80"></rect>
+    <rect id="Rectangle-19-Copy-3" fill="#E4E3EC" transform="translate(160.000000, 592.000000) rotate(90.000000) translate(-160.000000, -592.000000) " x="159" y="552" width="2" height="80"></rect>
+    <rect id="Rectangle-19-Copy-2" fill="#E4E3EC" transform="translate(512.000000, 393.000000) rotate(90.000000) translate(-512.000000, -393.000000) " x="511" y="353" width="2" height="80"></rect>
+    <rect id="Rectangle-19-Copy-3" fill="#E4E3EC" transform="translate(512.000000, 419.000000) rotate(90.000000) translate(-512.000000, -419.000000) " x="511" y="379" width="2" height="80"></rect>
+    <rect id="Rectangle-19-Copy-2" fill="#E4E3EC" transform="translate(760.000000, 393.000000) rotate(90.000000) translate(-760.000000, -393.000000) " x="759" y="353" width="2" height="80"></rect>
+    <rect id="Rectangle-19-Copy-3" fill="#E4E3EC" transform="translate(760.000000, 419.000000) rotate(90.000000) translate(-760.000000, -419.000000) " x="759" y="379" width="2" height="80"></rect>
+    <rect id="Rectangle-19-Copy-2" fill="#E4E3EC" transform="translate(264.000000, 566.000000) rotate(90.000000) translate(-264.000000, -566.000000) " x="263" y="526" width="2" height="80"></rect>
+    <rect id="Rectangle-19-Copy-22" fill="#E4E3EC" transform="translate(512.000000, 566.000000) rotate(90.000000) translate(-512.000000, -566.000000) " x="511" y="526" width="2" height="80"></rect>
+    <rect id="Rectangle-19-Copy-42" fill="#E4E3EC" transform="translate(656.000000, 566.000000) rotate(90.000000) translate(-656.000000, -566.000000) " x="655" y="526" width="2" height="80"></rect>
+    <rect id="Rectangle-19-Copy-46" fill="#E4E3EC" transform="translate(408.000000, 566.000000) rotate(90.000000) translate(-408.000000, -566.000000) " x="407" y="526" width="2" height="80"></rect>
+    <rect id="Rectangle-19-Copy-3" fill="#E4E3EC" transform="translate(264.000000, 592.000000) rotate(90.000000) translate(-264.000000, -592.000000) " x="263" y="552" width="2" height="80"></rect>
+    <rect id="Rectangle-19-Copy-23" fill="#E4E3EC" transform="translate(512.000000, 592.000000) rotate(90.000000) translate(-512.000000, -592.000000) " x="511" y="552" width="2" height="80"></rect>
+    <rect id="Rectangle-19-Copy-43" fill="#E4E3EC" transform="translate(656.000000, 592.000000) rotate(90.000000) translate(-656.000000, -592.000000) " x="655" y="552" width="2" height="80"></rect>
+    <rect id="Rectangle-19-Copy-47" fill="#E4E3EC" transform="translate(408.000000, 592.000000) rotate(90.000000) translate(-408.000000, -592.000000) " x="407" y="552" width="2" height="80"></rect>
+    <g id="Group-2" transform="translate(760.000000, 579.000000) scale(-1, 1) translate(-760.000000, -579.000000) translate(720.000000, 539.000000)">
+      <g id="O" transform="translate(14.000000, 14.000000) scale(-1, 1) translate(-14.000000, -14.000000) translate(2.000000, 2.000000)">
+        <g id="Group-3">
+          <rect id="Rectangle-2" x="0" y="0" width="24" height="24"></rect>
+          <circle id="Oval-3" stroke="#4844A3" stroke-width="2" cx="12" cy="12" r="5"></circle>
+        </g>
+      </g>
+      <g id="O" transform="translate(40.000000, 40.000000) scale(-1, 1) translate(-40.000000, -40.000000) translate(28.000000, 28.000000)">
+        <g id="Group-3">
+          <rect id="Rectangle-2" x="0" y="0" width="24" height="24"></rect>
+          <circle id="Oval-3" stroke="#4844A3" stroke-width="2" cx="12" cy="12" r="5"></circle>
+        </g>
+      </g>
+      <g id="O" transform="translate(40.000000, 66.000000) scale(-1, 1) translate(-40.000000, -66.000000) translate(28.000000, 54.000000)">
+        <g id="Group-3">
+          <rect id="Rectangle-2" x="0" y="0" width="24" height="24"></rect>
+          <circle id="Oval-3" stroke="#4844A3" stroke-width="2" cx="12" cy="12" r="5"></circle>
+        </g>
+      </g>
+      <g id="O" transform="translate(14.000000, 66.000000) scale(-1, 1) translate(-14.000000, -66.000000) translate(2.000000, 54.000000)">
+        <g id="Group-3">
+          <rect id="Rectangle-2" x="0" y="0" width="24" height="24"></rect>
+          <circle id="Oval-3" stroke="#4844A3" stroke-width="2" cx="12" cy="12" r="5"></circle>
+        </g>
+      </g>
+      <g id="O" transform="translate(66.000000, 14.000000) scale(-1, 1) translate(-66.000000, -14.000000) translate(54.000000, 2.000000)">
+        <g id="Group-3">
+          <rect id="Rectangle-2" x="0" y="0" width="24" height="24"></rect>
+          <circle id="Oval-3" stroke="#4844A3" stroke-width="2" cx="12" cy="12" r="5"></circle>
+        </g>
+      </g>
+      <g id="X" transform="translate(14.000000, 40.000000) scale(-1, 1) translate(-14.000000, -40.000000) translate(2.000000, 28.000000)">
+        <g id="Group-2">
+          <rect id="Rectangle-2-Copy" x="0" y="0" width="24" height="24"></rect>
+          <g id="Group" transform="translate(6.000000, 6.000000)" fill="#19CA94">
+            <rect id="Rectangle" transform="translate(6.000000, 5.711538) rotate(45.000000) translate(-6.000000, -5.711538) " x="-0.923076923" y="4.78846154" width="13.8461538" height="1.84615385"></rect>
+            <rect id="Rectangle-Copy" transform="translate(6.000000, 5.711538) rotate(-45.000000) translate(-6.000000, -5.711538) " x="-0.923076923" y="4.78846154" width="13.8461538" height="1.84615385"></rect>
+          </g>
+        </g>
+      </g>
+      <g id="X" transform="translate(66.000000, 40.000000) scale(-1, 1) translate(-66.000000, -40.000000) translate(54.000000, 28.000000)">
+        <g id="Group-2">
+          <rect id="Rectangle-2-Copy" x="0" y="0" width="24" height="24"></rect>
+          <g id="Group" transform="translate(6.000000, 6.000000)" fill="#19CA94">
+            <rect id="Rectangle" transform="translate(6.000000, 5.711538) rotate(45.000000) translate(-6.000000, -5.711538) " x="-0.923076923" y="4.78846154" width="13.8461538" height="1.84615385"></rect>
+            <rect id="Rectangle-Copy" transform="translate(6.000000, 5.711538) rotate(-45.000000) translate(-6.000000, -5.711538) " x="-0.923076923" y="4.78846154" width="13.8461538" height="1.84615385"></rect>
+          </g>
+        </g>
+      </g>
+      <g id="X" transform="translate(66.000000, 66.000000) scale(-1, 1) translate(-66.000000, -66.000000) translate(54.000000, 54.000000)">
+        <g id="Group-2">
+          <rect id="Rectangle-2-Copy" x="0" y="0" width="24" height="24"></rect>
+          <g id="Group" transform="translate(6.000000, 6.000000)" fill="#19CA94">
+            <rect id="Rectangle" transform="translate(6.000000, 5.711538) rotate(45.000000) translate(-6.000000, -5.711538) " x="-0.923076923" y="4.78846154" width="13.8461538" height="1.84615385"></rect>
+            <rect id="Rectangle-Copy" transform="translate(6.000000, 5.711538) rotate(-45.000000) translate(-6.000000, -5.711538) " x="-0.923076923" y="4.78846154" width="13.8461538" height="1.84615385"></rect>
+          </g>
+        </g>
+      </g>
+      <g id="X" transform="translate(40.000000, 14.000000) scale(-1, 1) translate(-40.000000, -14.000000) translate(28.000000, 2.000000)">
+        <g id="Group-2">
+          <rect id="Rectangle-2-Copy" x="0" y="0" width="24" height="24"></rect>
+          <g id="Group" transform="translate(6.000000, 6.000000)" fill="#19CA94">
+            <rect id="Rectangle" transform="translate(6.000000, 5.711538) rotate(45.000000) translate(-6.000000, -5.711538) " x="-0.923076923" y="4.78846154" width="13.8461538" height="1.84615385"></rect>
+            <rect id="Rectangle-Copy" transform="translate(6.000000, 5.711538) rotate(-45.000000) translate(-6.000000, -5.711538) " x="-0.923076923" y="4.78846154" width="13.8461538" height="1.84615385"></rect>
+          </g>
+        </g>
+      </g>
+      <rect id="Rectangle-18-Copy-17" stroke-opacity="0.5" stroke="#CDCCE2" stroke-width="2" transform="translate(40.000000, 40.000000) scale(-1, 1) translate(-40.000000, -40.000000) " x="1" y="1" width="78" height="78" rx="8"></rect>
+      <rect id="Rectangle-19-Copy-29" fill="#E4E3EC" transform="translate(27.000000, 40.000000) scale(-1, 1) translate(-27.000000, -40.000000) " x="26" y="0" width="2" height="80"></rect>
+      <rect id="Rectangle-19-Copy-35" fill="#E4E3EC" transform="translate(53.000000, 40.000000) scale(-1, 1) translate(-53.000000, -40.000000) " x="52" y="0" width="2" height="80"></rect>
+      <rect id="Rectangle-19-Copy-25" fill="#E4E3EC" transform="translate(40.000000, 27.000000) scale(-1, 1) rotate(90.000000) translate(-40.000000, -27.000000) " x="39" y="-13" width="2" height="80"></rect>
+      <rect id="Rectangle-19-Copy-26" fill="#E4E3EC" transform="translate(40.000000, 53.000000) scale(-1, 1) rotate(90.000000) translate(-40.000000, -53.000000) " x="39" y="13" width="2" height="80"></rect>
+    </g>
+    <rect id="Rectangle-19-Copy-2" fill="#E4E3EC" transform="translate(212.000000, 222.000000) rotate(90.000000) translate(-212.000000, -222.000000) " x="211" y="182" width="2" height="80"></rect>
+    <rect id="Rectangle-19-Copy-3" fill="#E4E3EC" transform="translate(212.000000, 248.000000) rotate(90.000000) translate(-212.000000, -248.000000) " x="211" y="208" width="2" height="80"></rect>
+    <path d="M264,191 L411,114" id="Path-2" stroke="#A3A1D1" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="1,5"></path>
+    <path d="M511,191 L658,114" id="Path-2-Copy" stroke="#A3A1D1" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="1,5" transform="translate(584.500000, 152.500000) scale(-1, 1) translate(-584.500000, -152.500000) "></path>
+    <path d="M461,125 L461,181" id="Path-3-Copy-16" stroke="#A3A1D1" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="1,5"></path>
+    <path d="M513,460 L513,529" id="Path-3-Copy-17" stroke="#A3A1D1" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="1,5"></path>
+    <path d="M657,460 L657,529" id="Path-3-Copy-22" stroke="#A3A1D1" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="1,5"></path>
+    <path d="M409,460 L409,529" id="Path-3-Copy-21" stroke="#A3A1D1" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="1,5"></path>
+    <path d="M761,460 L761,529" id="Path-3-Copy-18" stroke="#A3A1D1" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="1,5"></path>
+    <path d="M264,460 L264,529" id="Path-3-Copy-19" stroke="#A3A1D1" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="1,5"></path>
+    <path d="M160,460 L160,529" id="Path-3-Copy-20" stroke="#A3A1D1" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="1,5"></path>
+    <path d="M175,288 L162,355" id="Path-3-Copy-5" stroke="#A3A1D1" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="1,5"></path>
+    <path d="M423,288 L410,355" id="Path-3-Copy-7" stroke="#A3A1D1" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="1,5"></path>
+    <path d="M671,288 L658,355" id="Path-3-Copy-9" stroke="#A3A1D1" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="1,5"></path>
+    <path d="M263,288 L250,355" id="Path-3-Copy-6" stroke="#A3A1D1" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="1,5" transform="translate(256.500000, 321.500000) scale(-1, 1) translate(-256.500000, -321.500000) "></path>
+    <path d="M511,288 L498,355" id="Path-3-Copy-8" stroke="#A3A1D1" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="1,5" transform="translate(504.500000, 321.500000) scale(-1, 1) translate(-504.500000, -321.500000) "></path>
+    <path d="M759,288 L746,355" id="Path-3-Copy-10" stroke="#A3A1D1" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="1,5" transform="translate(752.500000, 321.500000) scale(-1, 1) translate(-752.500000, -321.500000) "></path>
+    <rect id="Rectangle-14-Copy-2" fill="#D36BD3" transform="translate(434.000000, 579.000000) rotate(90.000000) translate(-434.000000, -579.000000) " x="400" y="578" width="68" height="2"></rect>
+    <rect id="Rectangle-14-Copy-3" fill="#D36BD3" transform="translate(682.000000, 579.000000) rotate(90.000000) translate(-682.000000, -579.000000) " x="648" y="578" width="68" height="2"></rect>
+    <rect id="Rectangle-14-Copy-9" fill="#D36BD3" transform="translate(761.000000, 580.000000) rotate(45.000000) translate(-761.000000, -580.000000) " x="713" y="579" width="96" height="2"></rect>
+    <rect id="Rectangle-14-Copy-10" fill="#D36BD3" transform="translate(160.000000, 580.000000) rotate(45.000000) translate(-160.000000, -580.000000) " x="112" y="579" width="96" height="2"></rect>
+  </g>
+</svg>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="800px" height="489px" viewBox="0 0 800 489">
+  <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+  <title>exercise6_2</title>
+  <desc>Created with Sketch.</desc>
+  <defs></defs>
+  <g id="exercise6_2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <path d="M691.551366,103.159312 L408,386.710678" id="Path-2-Copy-4" stroke="#CDCCE2" stroke-width="2" transform="translate(550.000000, 245.000000) scale(-1, 1) translate(-550.000000, -245.000000) "></path>
+    <path d="M350,188 L450,188" id="Path-2-Copy" stroke="#CDCCE2" stroke-width="2"></path>
+    <path d="M158,416 L258,416" id="Path-2-Copy-3" stroke="#CDCCE2" stroke-width="2"></path>
+    <path d="M350,416 L450,416" id="Path-2-Copy-9" stroke="#CDCCE2" stroke-width="2"></path>
+    <path d="M542,416 L642,416" id="Path-2-Copy-6" stroke="#CDCCE2" stroke-width="2"></path>
+    <path d="M391.551366,103.159312 L108,386.710678" id="Path-2-Copy-4" stroke="#CDCCE2" stroke-width="2"></path>
+    <path d="M571,316 L500,387" id="Path-2-Copy-7" stroke="#CDCCE2" stroke-width="2"></path>
+    <path d="M308,316 L237,387" id="Path-2-Copy-5" stroke="#CDCCE2" stroke-width="2" transform="translate(272.500000, 351.500000) scale(-1, 1) translate(-272.500000, -351.500000) "></path>
+    <rect id="Rectangle-11-Copy-53" stroke="#CDCCE2" stroke-width="2" fill="#FFFFFF" x="321" y="33" width="158" height="80" rx="8"></rect>
+    <rect id="Rectangle-11-Copy-62" stroke="#CDCCE2" stroke-width="2" fill="#FFFFFF" x="129" y="261" width="158" height="80" rx="8"></rect>
+    <rect id="Rectangle-11-Copy-65" stroke="#CDCCE2" stroke-width="2" fill="#FFFFFF" x="513" y="261" width="158" height="80" rx="8"></rect>
+    <rect id="Rectangle-11-Copy-54" stroke="#CDCCE2" stroke-width="2" fill="#FFFFFF" x="229" y="147" width="158" height="80" rx="8"></rect>
+    <rect id="Rectangle-11-Copy-63" stroke="#CDCCE2" stroke-width="2" fill="#FFFFFF" x="37" y="375" width="158" height="80" rx="8"></rect>
+    <rect id="Rectangle-11-Copy-66" stroke="#CDCCE2" stroke-width="2" fill="#FFFFFF" x="421" y="375" width="158" height="80" rx="8"></rect>
+    <rect id="Rectangle-11-Copy-55" stroke="#CDCCE2" stroke-width="2" fill="#FFFFFF" x="421" y="147" width="158" height="80" rx="8"></rect>
+    <rect id="Rectangle-11-Copy-64" stroke="#CDCCE2" stroke-width="2" fill="#FFFFFF" x="229" y="375" width="158" height="80" rx="8"></rect>
+    <rect id="Rectangle-11-Copy-67" stroke="#CDCCE2" stroke-width="2" fill="#FFFFFF" x="613" y="375" width="158" height="80" rx="8"></rect>
+    <g id="Group-4" transform="translate(440.000000, 163.000000)">
+      <rect id="Rectangle-5-Copy-19" fill-opacity="0.5" fill="#CDCCE2" transform="translate(60.000000, 21.000000) scale(-1, 1) translate(-60.000000, -21.000000) " x="58" y="0" width="4" height="42"></rect>
+      <rect id="Rectangle-5-Copy-22" fill-opacity="0.5" fill="#CDCCE2" transform="translate(104.000000, 16.000000) scale(-1, 1) translate(-104.000000, -16.000000) " x="102" y="0" width="4" height="32"></rect>
+      <rect id="Rectangle-Copy-37" fill="#D36BD3" transform="translate(16.000000, 38.000000) scale(-1, 1) translate(-16.000000, -38.000000) " x="0" y="34" width="32" height="8" rx="4"></rect>
+      <rect id="Rectangle-Copy-38" fill="#5BC4E7" transform="translate(104.000000, 38.000000) scale(-1, 1) translate(-104.000000, -38.000000) " x="93" y="34" width="22" height="8" rx="4"></rect>
+      <rect id="Rectangle-5-Copy-35" fill="#29264C" transform="translate(60.000000, 46.000000) scale(-1, 1) translate(-60.000000, -46.000000) " x="0" y="44" width="120" height="4"></rect>
+      <rect id="Rectangle-5-Copy-36" fill-opacity="0.5" fill="#CDCCE2" transform="translate(16.000000, 16.000000) scale(-1, 1) translate(-16.000000, -16.000000) " x="14" y="0" width="4" height="32"></rect>
+    </g>
+    <g id="Group-2" transform="translate(248.000000, 163.000000)">
+      <rect id="Rectangle-5-Copy-25" fill="#29264C" transform="translate(60.000000, 46.000000) scale(-1, 1) translate(-60.000000, -46.000000) " x="0" y="44" width="120" height="4"></rect>
+      <rect id="Rectangle-Copy-39" fill="#D36BD3" x="0" y="34" width="32" height="8" rx="4"></rect>
+      <rect id="Rectangle-5-Copy-27" fill-opacity="0.5" fill="#CDCCE2" x="100" y="0" width="4" height="42"></rect>
+      <rect id="Rectangle-5-Copy-31" fill-opacity="0.5" fill="#CDCCE2" x="58" y="0" width="4" height="32"></rect>
+      <rect id="Rectangle-Copy-40" fill="#5BC4E7" x="49" y="34" width="22" height="8" rx="4"></rect>
+      <rect id="Rectangle-5-Copy-32" fill-opacity="0.5" fill="#CDCCE2" x="14" y="0" width="4" height="32"></rect>
+    </g>
+    <g id="Group" transform="translate(340.000000, 49.000000)">
+      <rect id="Rectangle-Copy-33" fill="#D36BD3" x="0" y="34" width="32" height="8" rx="4"></rect>
+      <rect id="Rectangle-Copy-41" fill="#5BC4E7" x="5" y="24" width="22" height="8" rx="4"></rect>
+      <rect id="Rectangle-5-Copy-24" fill="#29264C" x="0" y="44" width="120" height="4"></rect>
+      <rect id="Rectangle-5-Copy-26" fill-opacity="0.5" fill="#CDCCE2" x="102" y="0" width="4" height="42"></rect>
+      <rect id="Rectangle-5-Copy-37" fill-opacity="0.5" fill="#CDCCE2" x="14" y="0" width="4" height="22"></rect>
+      <rect id="Rectangle-5-Copy-38" fill-opacity="0.5" fill="#CDCCE2" x="58" y="0" width="4" height="42"></rect>
+    </g>
+    <text id="1" font-family="GTWalsheimBold, GT Walsheim" font-size="24" font-weight="bold" letter-spacing="0.2666667" fill="#29264C">
+      <tspan x="203.006667" y="307">1</tspan>
+    </text>
+    <text id="2" font-family="GTWalsheimBold, GT Walsheim" font-size="24" font-weight="bold" letter-spacing="0.2666667" fill="#29264C">
+      <tspan x="108.942667" y="424">2</tspan>
+    </text>
+    <text id="5" font-family="GTWalsheimBold, GT Walsheim" font-size="24" font-weight="bold" letter-spacing="0.2666667" fill="#29264C">
+      <tspan x="492.246667" y="422">5</tspan>
+    </text>
+    <text id="3" font-family="GTWalsheimBold, GT Walsheim" font-size="24" font-weight="bold" letter-spacing="0.2666667" fill="#29264C">
+      <tspan x="300.654667" y="422">3</tspan>
+    </text>
+    <text id="6" font-family="GTWalsheimBold, GT Walsheim" font-size="24" font-weight="bold" letter-spacing="0.2666667" fill="#29264C">
+      <tspan x="684.666667" y="422">6</tspan>
+    </text>
+    <text id="4" font-family="GTWalsheimBold, GT Walsheim" font-size="24" font-weight="bold" letter-spacing="0.2666667" fill="#29264C">
+      <tspan x="584.534667" y="307">4</tspan>
+    </text>
+  </g>
+</svg>
